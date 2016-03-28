@@ -32,4 +32,4 @@ Som i kursen Webbprojekt I kommer dokumentationen och arbetsprocess att bedrivas
 en kombination av SCRUM och Unified Process där jag delar in utvecklingen i iterationer
 med avgränsade deluppgifter, samt strävar efter kontinuerlig leverans.
 
-<small>Senast uppdaterad: 2016-03-28</small>
+*Senast uppdaterad: 2016-03-28*
