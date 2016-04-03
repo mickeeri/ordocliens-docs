@@ -14,7 +14,7 @@
 
 ## Funktionella krav
 #### 1. Ej inloggad användare ska kunna
-###### 1.1. Logga in på tjänsten med användarnamn och lösenord.
+**1.1. Logga in på tjänsten med användarnamn och lösenord.**
 
 #### 2. Inloggad användare ska kunna
 **2.1. Registrera nya klienter.** <br>
@@ -29,16 +29,18 @@
 2.2.2. Få en lista över ärenden. <br>
 &ensp; 2.2.2.1. Filtera listan på ärenden med sökord. <br>
 &ensp; 2.2.2.2. Filtera listan på aktiva och ej aktiva ärenden. <br>
-2.2.3. Redigera ärende. <br>
-2.2.4. Radera ärenden. <br>
-2.2.5. Se summering av hittils arbetade timmar med ett ärende.
+2.2.3. Skapa en rapport gällande ett ärende.
+2.2.4. Redigera ärende. <br>
+2.2.5. Radera ärenden. <br>
+2.2.6. Se summering av hittils arbetade timmar med ett ärende.
 
 **2.3. Lägga till tidrapporter som tillhör ett ärende.** <br>
 2.3.1. Välja datum. Aktuellt datum ska vara förifyllt. <br>
 2.3.2. Välja mellan fyra olika prisklasser: arbete, utlägg, tidssplillan låg och tidssplillan hög. <br>
 
-**2.4. Ändra sina uppgifter (användarnamn, e-post och lösenord)** <br>
-**2.5. Logga ut.**
+**2.5. Ändra sina uppgifter (användarnamn, e-post och lösenord)** <br>
+
+**2.6. Logga ut.**
 
 ***
 *Senast uppdaterad 2016-04-03*
