@@ -29,7 +29,7 @@
 2.2.2. Få en lista över ärenden. <br>
 &ensp; 2.2.2.1. Filtera listan på ärenden med sökord. <br>
 &ensp; 2.2.2.2. Filtera listan på aktiva och ej aktiva ärenden. <br>
-2.2.3. Skapa en rapport gällande ett ärende.
+2.2.3. Skapa en rapport gällande ett ärende. <br>
 2.2.4. Redigera ärende. <br>
 2.2.5. Radera ärenden. <br>
 2.2.6. Se summering av hittils arbetade timmar med ett ärende.
