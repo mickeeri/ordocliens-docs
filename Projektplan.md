@@ -20,7 +20,7 @@ Kunden är en juristfirma med två anställda som har svårt att hitta ett bra s
 Syftet med projektet är att skapa en applikation för den mindre juristfirman, där anställda kan logga in och registera nya kunder, rättsliga ärenden och arbetade timmar med varje ärende.
 
 ### Projektets mål
-Målet är att färdigställa en stabil applikation som följer de baskrav som finns specificerade i visionen som kunden kan använda i sitt dagliga arbete.
+Målet är att färdigställa en stabil applikation som följer de baskrav som finns specificerade i visionen  och som kunden kan använda i sitt dagliga arbete.
 
 Framtida mål är att applikationen ska kunna användas av flera mindre juristfirmor än just kunden i fråga.
 
