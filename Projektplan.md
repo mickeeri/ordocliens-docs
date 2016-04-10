@@ -29,13 +29,23 @@ Projektet genomförs av en person som har ca 200 timmar till sitt förfogande.
 
 ### Tidplan för projektet
 ##### Vecka 12
-Undersöka tekniker. Färdigställda vision.
+* Undersöka tekniker.
+* Färdigställda vision.
 
 ##### Vecka 13
-Börja med dokumentationen och inleda arbetet med back-end.
+* Börja med dokumentationen.
+* Inleda arbetet med back-end.
+
 ##### Vecka 14
-Fortsatt arbete med dokumentation. Börja implementation av front-end och publicera en första version.
+* Fortsatt arbete med dokumentation.
+* Börja implementation av front-end.
+* Publicera en första version.
+
 ##### Vecka 15
+* Arbete med dokumentation.
+* Visa applikation för kund.
+* Fortsatt implementation.
+* Publicing.  
 
 ##### Vecka 16
 
@@ -60,4 +70,4 @@ Applikationen kommer att bestå av en back-end-del utvecklad i Ruby on Rails. De
 Front-end kommer att bestå av ....
 
 ***
-*Senast uppdaterad 2016-04-03*
+*Senast uppdaterad 2016-04-10*

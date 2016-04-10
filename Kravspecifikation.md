@@ -1,6 +1,6 @@
 # Kravspecifikation
 
-## Icke funktionella krav
+## Ej funktionella krav
 #### Användbarhet
 1. Applikationens design ska vara responsiv.
 2. Lämpliga fel- och rättmeddelanden ska presenteras för användaren.
@@ -10,13 +10,22 @@
 #### Underhåll
 
 #### Prestanda
-1. Applikationen ska i möjligaste mån fungera utan sidomladdningar.
+1. Interaktion med applikationens sidor ska i möjligaste mån fungera utan sidomladdningar.
+2. Sökning och filtering av resurser ska fungera utan att det hackar eller stannar upp om användaren använder en normalsnabb internetuppkoppling.
+
+#### Säkerhet och integritet
+1. Applikationen ska använda SSL.
+2. Lagring av personuppgifter ska följa personuppgiftslaget (PUL).
+&ensp; 2.1. Personuppgifter ska lagras på en server i Sverige.
+&ensp; 2.2. Strategi för att inte lagra uppgifter i onödan ska finnas.
 
 ## Funktionella krav
-#### 1. Ej inloggad användare ska kunna
-**1.1. Logga in på tjänsten med användarnamn och lösenord.**
+#### 1. Ej inloggad användare ska kunna:
+**1.1. Logga in på tjänsten med e-post och lösenord.**
 
-#### 2. Inloggad användare ska kunna
+**1.2. Återställa sitt lösenord.**
+
+#### 2. Inloggad användare ska kunna:
 **2.1. Registrera nya klienter.** <br>
 2.1.2. Få en lista över klienter. <br>
 &ensp; 2.1.2.1. Filtera listan på klienter med sökord. <br>
@@ -24,7 +33,7 @@
 2.1.4. Redigera klienternas uppgifter. <br>
 2.1.5. Radera klienter.
 
-**2.2. registrera ärenden gällande klienter.** <br>
+**2.2. Registrera ärenden gällande klienter.** <br>
 2.2.1. Klarmarkera ärenden. <br>
 2.2.2. Få en lista över ärenden. <br>
 &ensp; 2.2.2.1. Filtera listan på ärenden med sökord. <br>

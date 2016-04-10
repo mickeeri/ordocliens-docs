@@ -25,7 +25,7 @@ Förarbete innefattar bland annat att sätta sig in i och försöka förstå bra
 
 ### Teknik
 Applikationen kommer att vara en webblösning som består av en back-­end utvecklad med
-Ruby on Rails och en front-­end som utvecklas med hjälp av AngularJS. För persistent lagring används en MySQL-­databas.
+Ruby on Rails och en front-­end som utvecklas med hjälp av React. För persistent lagring används en PostgreSQL-­databas.
 
 ### Utvecklingsprocess och dokumentation
 Som i kursen Webbprojekt I kommer dokumentationen och arbetsprocess att bedrivas enligt
@@ -34,4 +34,4 @@ med avgränsade deluppgifter, samt strävar efter kontinuerlig leverans.
 
 ***
 
-*Senast uppdaterad: 2016-03-28*
+*Senast uppdaterad: 2016-04-10*
