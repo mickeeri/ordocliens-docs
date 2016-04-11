@@ -17,9 +17,9 @@ Den här veckan hann jag inte heller med så mycket testning. Så det kommer att
 ### Uppgifter
 |Uppgift                                        |Krav|Status|
 |-----------------------------------------------|----|------|
-|Skapa modellklasser för kontaktuppgifter.      |    |      |
-|Skapa modellklasser för tidrapporter/uppgifter.|    |      |
-|Skapa crud-funktionalitet för klienter.        |    |      |
-|Skapa crud-funktionalitet för ärenden.         |    |      |
+|Skapa modellklasser för kontaktuppgifter.      |2.1 |      |
+|Skapa modellklasser för tidrapporter/uppgifter.|2.2 |      |
+|Skapa crud-funktionalitet för klienter.        |2.1 |      |
+|Skapa crud-funktionalitet för ärenden.         |2.2 |      |
 |Se till att automatiska testerna går igenom.   |    |      |
 |Uppdatera dokumentation                        |    |      |
