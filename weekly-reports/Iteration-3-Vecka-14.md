@@ -15,16 +15,16 @@ Under iteration 4 planerar jag att skapa de modellklasser som är kvar, samt bö
 Den här veckan hann jag inte heller med så mycket testning. Så det kommer att jag göra nästa vecka.
 
 ### Uppgifter
-|Uppgift                                        |Krav|Status|
+|Uppgift                                        |Krav||
 |-----------------------------------------------|----|------|
-|Skapa modellklasser för kontaktuppgifter.      ||:x:|
-|Skapa modellklasser för tidrapporter/uppgifter.||:x:|
-|Lägga till kontaktuppgifter till klient.      ||:x:|
-|Lägga till klient        ||:x:|
-|Ta bort klient.         ||:x:|
-|Redigera klient   ||:x:|
-|Få ordning på dokumentation                        ||:x:|
-|Få existerande automatiska tester att gå igenom                      ||:x:|
-|Testrapport                      ||:x:|
-|Publicering och delleverans                      ||:x:|
-|Iterationsplan för nästa vecka                    ||:x:|
+|Skapa modellklasser för kontaktuppgifter.      ||:white_large_square:|
+|Skapa modellklasser för tidrapporter/uppgifter.||:white_large_square:|
+|Lägga till kontaktuppgifter till klient.      ||:white_large_square:|
+|Lägga till klient        ||:white_large_square:|
+|Ta bort klient.         ||:white_large_square:|
+|Redigera klient   ||:white_large_square:|
+|Få ordning på dokumentation                        ||:white_large_square:|
+|Få existerande automatiska tester att gå igenom                      ||:white_large_square:|
+|Testrapport                      ||:white_large_square:|
+|Publicering och delleverans                      ||:white_large_square:|
+|Iterationsplan för nästa vecka                    ||:white_large_square:|
