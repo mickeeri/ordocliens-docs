@@ -23,7 +23,7 @@
 1.5.1. Applikationen ska använda SSL. </br>
 1.5.2. Lagring av personuppgifter ska följa personuppgiftslaget (PUL). </br>
 --1.5.2.1. Personuppgifter ska lagras på en server i Sverige. </br>
---1.5.2.2. Strategi för att inte lagra uppgifter i onödan ska finnas. </br> 
+--1.5.2.2. Strategi för att inte lagra uppgifter i onödan ska finnas. </br>
 
 
 
@@ -33,7 +33,7 @@
 |#|Krav                                         ||
 |-----------------------------------------------|----|------|
 |2.1.1|Logga in med e-post och lösenord.|:white_check_mark:|
-|2.1.2|Ändra sina uppgifter.|:white_check_mark:|
+|2.1.2|Ändra användaruppgifter.|:white_check_mark:|
 |2.2.3|Återställa lösenord.|:white_large_square:|
 |2.2.4|Bli ihågkommen mellan sessioner.|:white_check_mark:|
 |2.2.5|Logga ut.|:white_check_mark:|

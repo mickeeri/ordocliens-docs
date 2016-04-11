@@ -17,14 +17,13 @@ Den här veckan hann jag inte heller med så mycket testning. Så det kommer att
 ### Uppgifter
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|------|
-|Skapa modellklasser för kontaktuppgifter.      ||:white_large_square:|
-|Skapa modellklasser för tidrapporter/uppgifter.||:white_large_square:|
-|Lägga till kontaktuppgifter till klient.      ||:white_large_square:|
-|Lägga till klient        ||:white_large_square:|
-|Ta bort klient.         ||:white_large_square:|
-|Redigera klient   ||:white_large_square:|
+|Skapa modellklasser för kontaktuppgifter.      |2.2.1|:white_large_square:|
+|Skapa modellklasser för tidrapporter/uppgifter.|2.4.1|:white_large_square:|
+|Lägga till klient        |2.2.1|:white_large_square:|
+|Redigera klient   |2.2.3|:white_large_square:|
+|Ta bort klient.         |2.2.4|:white_large_square:|
 |Få ordning på dokumentation                        ||:white_large_square:|
-|Få existerande automatiska tester att gå igenom                      ||:white_large_square:|
+|Få existerande automatiska tester att gå igenom                      |1.2.1|:white_large_square:|
 |Testrapport                      ||:white_large_square:|
 |Publicering och delleverans                      ||:white_large_square:|
 |Iterationsplan för nästa vecka                    ||:white_large_square:|
