@@ -43,7 +43,7 @@
 |-----------------------------------------------|----|------|
 |2.2.1|Registera nya klienter med namn och kontaktuppgifter.|:white_large_square:|
 |2.2.2|Få en lista över klienter.|:white_check_mark:|
-|--2.2.2.1|Filtera listan på klienter med sökord.|:white_large_square:|
+|--2.2.2.1|Filtera listan på klienter med sökord.|:white_check_mark:|
 |2.2.3|Redigera klienter.|:white_large_square:|
 |2.2.4|Radera klienter.|:white_large_square:|
 
