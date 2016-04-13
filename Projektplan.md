@@ -28,41 +28,46 @@ Framtida mål är att applikationen ska kunna användas av flera mindre juristfi
 Projektet genomförs av en person som har ca 200 timmar till sitt förfogande.
 
 ### Tidplan för projektet
-##### Vecka 12
-* Undersöka tekniker.
-* Färdigställda vision.
+##### Vecka 12, Iteration 0
+* [x] Undersöka tekniker.
+* [x] Färdigställda vision.
 
-##### Vecka 13
-* Börja med dokumentationen.
-* Inleda arbetet med back-end.
+##### Vecka 13, Iteration 1
+* [x] Börja med dokumentationen.
+* [x] Inleda arbetet med back-end.
 
-##### Vecka 14
-* Fortsatt arbete med dokumentation.
-* Börja implementation av front-end.
-* Publicera en första version.
+##### Vecka 14, Iteration 2
+* [x] Fortsatt arbete med dokumentation.
+* [x] Börja implementation av front-end.
+* [x] Publicera en första version.
 
-##### Vecka 15
-* Arbete med dokumentation.
-* Visa applikation för kund.
-* Fortsatt implementation.
-* Publicing.  
+##### Vecka 15, Iteration 3
+* [ ] Arbete med dokumentation.
+* [ ] Visa applikation för kund.
+* [ ] Fortsatt implementation fokus back-end.
+* [ ] Publicering.  
+* [ ] Testrapport
 
-##### Vecka 16
+##### Vecka 16, Iteration 4
+* [ ] Fortsatt implementation.
+* [ ] Publicering.  
+* [ ] Testrapport
 
-##### Vecka 17
+##### Vecka 17, Iteration 5
 
-##### Vecka 18
+##### Vecka 18, Iteration 6
 
-##### Vecka 19
+##### Vecka 19, Iteration 7
 
-##### Vecka 20
+##### Vecka 20, Iteration 9
 
-##### Vecka 21
+##### Vecka 21, Iteration 10
 
-##### Vecka 22
-Redovisning av projekt.
-##### Vecka 23
-Inlämning av praktiskt arbete senast 2016-06-10.
+##### Vecka 22, Iteration 11
+* [ ] Redovisning av projekt.
+
+##### Vecka 23, Iteration 12
+* [ ] Inlämning av praktiskt arbete senast 2016-06-10.
 
 ### Projektets storlek
 Applikationen kommer att bestå av en back-end-del utvecklad i Ruby on Rails. Den består av ungefär 8 modellklasser och uppskattningsvis 8,000 rader kod.
