@@ -24,13 +24,14 @@
 ### Iteration 3, Vecka 15 (nuvarande)
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|------|
-|Skapa modellklasser för kontaktuppgifter.      |2.2.1|:white_large_square:|
+|Skapa modellklasser för kontaktuppgifter.      |2.2.1|:white_check_mark:|
 |Skapa modellklasser för tidrapporter/uppgifter.|2.4.1|:white_large_square:|
 |Lägga till klient        |2.2.1|:white_large_square:|
-|Redigera klient   |2.2.3|:white_large_square:|
-|Ta bort klient.         |2.2.4|:white_large_square:|
+|Redigera klient   |2.2.3|:white_check_mark:|
+|Ta bort klient.         |2.2.4|:white_check_mark:|
 |Få ordning på dokumentation                        ||:white_large_square:|
-|Få existerande automatiska tester att gå igenom                      |1.2.1|:white_large_square:|
+|Få existerande automatiska tester att gå igenom                      |1.2.1|:white_check_mark:|
+|Städa nuvarande kod med Rubocop                      ||:white_check_mark:|
 |Testrapport                      ||:white_large_square:|
 |Publicering och delleverans                      ||:white_large_square:|
 |Iterationsplan för nästa vecka                    ||:white_large_square:|
