@@ -1,4 +1,4 @@
-# Sprint backlog
+# Sprint backlogs
 
 ### Iteration 1, Vecka 13
 |Uppgift                                        |Krav||
@@ -29,11 +29,11 @@
 |Lägga till klient        |2.2.1|:white_large_square:|
 |Redigera klient   |2.2.3|:white_check_mark:|
 |Ta bort klient.         |2.2.4|:white_check_mark:|
-|Få ordning på dokumentation                        ||:white_large_square:|
+|Få ordning på dokumentation                        ||:white_check_mark:|
 |Få existerande automatiska tester att gå igenom                      |1.2.1|:white_check_mark:|
 |Städa nuvarande kod med Rubocop                      ||:white_check_mark:|
-|Testrapport                      ||:white_large_square:|
-|Publicering och delleverans                      ||:white_large_square:|
+|Testrapport                      ||:white_check_mark:|
+|Publicering och delleverans                      ||:white_check_mark:|
 |Iterationsplan för nästa vecka                    ||:white_large_square:|
 
 ### Iteration 4, Vecka 16
