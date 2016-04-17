@@ -50,6 +50,8 @@ Projektet genomförs av en person som har ca 200 timmar till sitt förfogande.
 
 ##### Vecka 16, Iteration 4
 * [ ] Fortsatt implementation.
+* [ ] Blir färdig med klient-crud
+* [ ] Börja med crud för ärenden
 * [ ] Publicering.  
 * [ ] Testrapport
 
