@@ -25,7 +25,7 @@
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|------|
 |Skapa modellklasser för kontaktuppgifter.      |2.2.1|:white_check_mark:|
-|Skapa modellklasser för tidrapporter/uppgifter.|2.4.1|:white_large_square:|
+|Skapa modellklasser för tidrapporter/uppgifter.|2.4.1|:white_check_mark:|
 |Lägga till klient        |2.2.1|:white_large_square:|
 |Redigera klient   |2.2.3|:white_check_mark:|
 |Ta bort klient.         |2.2.4|:white_check_mark:|
