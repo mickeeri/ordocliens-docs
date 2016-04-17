@@ -42,11 +42,11 @@ Projektet genomförs av en person som har ca 200 timmar till sitt förfogande.
 * [x] Publicera en första version.
 
 ##### Vecka 15, Iteration 3
-* [ ] Arbete med dokumentation.
-* [ ] Visa applikation för kund.
-* [ ] Fortsatt implementation fokus back-end.
-* [ ] Publicering.  
-* [ ] Testrapport
+* [x] Arbete med dokumentation.
+* [x] Visa applikation för kund.
+* [x] Fortsatt implementation fokus back-end.
+* [x] Publicering.  
+* [x] Testrapport
 
 ##### Vecka 16, Iteration 4
 * [ ] Fortsatt implementation.
