@@ -20,3 +20,14 @@ Systemet är fortfarande i inledningsfasen, men det verkar efter testningen vara
 
 ### Automatiska tester
 På grund av flera förändingar bland annat införandet av Devise för användarhantering felar nästan alla automatiska tester. Saker och ting fungerar som de ska men tester och fixturer behöver göras om.
+
+## Testrapport Iteration 3, Vecka 15
+
+### Datum 
+2016-04-17
+
+### Automatiska tester
+Rapport från automatiska tester finns [här](http://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-17.html)
+
+### Analys 
+Systemet känns fortfarande stabilt. Har försökt men inte lycktas med att göra tester för vyerna eftersom det är React som renderar innehållet. Får försöka nästa vecka eller enbart testa det manuellt. 
