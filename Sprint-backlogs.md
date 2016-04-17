@@ -4,8 +4,8 @@
 
 * [Iteration 1](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-1-vecka-13)
 * [Iteration 2](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-2-vecka-14)
-* [Iteration 3](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-3-vecka-15-nuvarande)
-* [Iteration 4](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-4-vecka-16)
+* [Iteration 3](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-3-vecka-15)
+* [Iteration 4](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-4-vecka-16-nuvarande)
 
 ***
 
