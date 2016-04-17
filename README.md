@@ -18,3 +18,6 @@ Skapa secret.yml
 
 
 Port: 5432
+
+#### How to install phantomJS
+https://gist.github.com/julionc/7476620
