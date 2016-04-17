@@ -31,7 +31,7 @@
 |Testrapport||:white_large_square:|
 |Kontinuerligt arbete med dokumentation||:white_check_mark:|
 
-### Iteration 3, Vecka 15 (nuvarande)
+### Iteration 3, Vecka 15
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|------|
 |Skapa modellklasser för kontaktuppgifter.      |2.2.1|:white_check_mark:|
@@ -44,6 +44,20 @@
 |Städa nuvarande kod med Rubocop                      ||:white_check_mark:|
 |Testrapport                      ||:white_check_mark:|
 |Publicering och delleverans                      ||:white_check_mark:|
+|Iterationsplan för nästa vecka                    ||:white_check_mark:|
+
+### Iteration 4, Vecka 16 (nuvarande)
+|Uppgift                                        |Krav||
+|-----------------------------------------------|----|------|
+|Lägga till klient        |2.2.1|:white_large_square:|
+|Lägga till kontaktuppgifter        |2.2.5|:white_large_square:|
+|Redigera kontaktuppgift   |2.2.5.1|:white_large_square:|
+|Ta bort kontaktuppgift   |2.2.5.2|:white_large_square:|
+|Dokumentation                        ||:white_large_square:|
+|Automatiska tester för React-komponenter                      |1.2.1|:white_large_square:|
+|Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
+|Testrapport                      ||:white_large_square:|
+|Publicering och delleverans                      ||:white_large_square:|
 |Iterationsplan för nästa vecka                    ||:white_large_square:|
 
-### Iteration 4, Vecka 16
+### Iteration 5, Vecka 17
