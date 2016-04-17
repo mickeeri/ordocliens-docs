@@ -53,6 +53,8 @@
 |Lägga till kontaktuppgifter        |2.2.5|:white_large_square:|
 |Redigera kontaktuppgift   |2.2.5.1|:white_large_square:|
 |Ta bort kontaktuppgift   |2.2.5.2|:white_large_square:|
+|Visa klientens juridiska ärenden   |2.3.2|:white_large_square:|
+|Lägga till juridiskt ärende till klient   |2.3.1|:white_large_square:|
 |Dokumentation                        ||:white_large_square:|
 |Automatiska tester för React-komponenter                      |1.2.1|:white_large_square:|
 |Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
