@@ -53,7 +53,7 @@
 |Lägga till kontaktuppgifter                    |2.2.5|:white_check_mark:|
 |Redigera kontaktuppgift                        |2.2.5.1|:white_check_mark:|
 |Ta bort kontaktuppgift                         |2.2.5.2|:white_check_mark:|
-|Visa klientens juridiska ärenden               |2.3.2|:white_large_square:|
+|Visa klientens juridiska ärenden               |2.3.2|:white_check_mark:|
 |Lägga till juridiskt ärende till klient        |2.3.1|:white_large_square:|
 |Dokumentation                                 ||:white_large_square:|
 |Automatiska tester för React-komponenter       |1.2.1|:white_check_mark:|
