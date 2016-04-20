@@ -12,7 +12,7 @@
 
 ### Iteration 1, Vecka 13
 |Uppgift                                        |Krav||
-|-----------------------------------------------|----|------|
+|----------------------------------------------------|----|------|
 |Bestämma tekniker||:white_check_mark:|
 |Börja implementation projekt||:white_check_mark:|
 |Planering av arkitektur, databas etc||:white_check_mark:|
@@ -33,7 +33,7 @@
 
 ### Iteration 3, Vecka 15
 |Uppgift                                        |Krav||
-|-----------------------------------------------|----|------|
+|---------------------------------------------------|----|------|
 |Skapa modellklasser för kontaktuppgifter.      |2.2.1|:white_check_mark:|
 |Skapa modellklasser för tidrapporter/uppgifter.|2.4.1|:white_check_mark:|
 |Lägga till klient        |2.2.1|:white_large_square:|
