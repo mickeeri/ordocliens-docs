@@ -43,7 +43,7 @@ Systemet känns fortfarande stabilt. Har försökt men inte lycktas med att gör
 2016-04-22
 
 ### Automatiska tester
-
+Lista på automatiska tester och resultat [här](http://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-22.html)
 
 ### Analys 
 
