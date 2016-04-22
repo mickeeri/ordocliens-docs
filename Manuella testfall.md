@@ -71,6 +71,7 @@ Anteckningar: Lorem ipsum
 #### Efterkrav
 * Felmeddelande visas.
 * Kvar på formulär för att skapa klient.
+* Returnerar statuskod 422 i webbläsarens konsol.
 * Klient har inte blivit skapad.
 
 ***
@@ -81,7 +82,7 @@ Anteckningar: Lorem ipsum
 
 #### Förkrav
 * TF 1.1. Användaren är inloggad.
-* TF 2.1. Klient skapad och befinner sig på klientens sida. Url: "clients/:id"
+* TF 2.1. Klient skapad och befinner sig på klientens sida. Url: `clients/:id`.
 
 #### Scenario
 1. Klicka på "Redigera klient"
@@ -105,7 +106,7 @@ Anteckningar: Lorem ipsum
 
 #### Förkrav
 * TF 1.1. Användaren är inloggad.
-* TF 2.1. Klient skapad och befinner sig på klientens sida, url: "clients/:id"
+* TF 2.1. Klient skapad och befinner sig på klientens sida, url: `clients/:id`.
 
 #### Scenario
 1. Klicka på "Redigera klient".
@@ -127,7 +128,7 @@ Testa att knappar på redigeringssidan uppvisar förväntat beteende.
 
 #### Förkrav
 * TF 1.1. Användaren är inloggad.
-* TF 2.1. Klient skapad och befinner sig på klientens sida, url: "clients/:id"
+* TF 2.1. Klient skapad och befinner sig på klientens sida, url: `clients/:id`.
 
 #### Scenario
 1. Klicka på "Redigera klient".
@@ -152,10 +153,12 @@ Att klicka på knapparna gör att sidan ändrar mellan redigeringsläge och visn
 1. Klicka på "Ta bort klient".
 2. Klicka på "Avbryt" i den popup-ruta som visas.
 3. Klicka på "Ta bort klient" igen.
-4. Klicka på "Ja".
+4. Klicka på krysset i hörnet på rutan.
+5. Klicka på "Ta bort klient" ännu en gång.
+6. Klicka på "Ja".
 
 #### Efterkrav
-* Omdirigeras till startsidan. Url: "/clients".
+* Omdirigeras till startsidan. Url: `/clients`.
 * Ett meddelande "Klienten har raderats" visas.
 
 
@@ -248,6 +251,8 @@ Testar att det går att redigera ett ärende. Testar även att det är skifta me
 * Kvar på samma formuläret.
 * Ett felmeddelande visas.
 * Uppgifterna har inte uppdaterats.
+
+***
 
 ### TF 3.3 Ta bort juridiskt ärende
 #### Krav som testas
