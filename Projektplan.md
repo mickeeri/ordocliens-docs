@@ -69,7 +69,7 @@ Projektet genomförs av en person som har ca 200 timmar till sitt förfogande.
 
 ##### Vecka 21, Iteration 10
 * [ ] Hitta en permanent serverlösning. 
-* 
+ 
 ##### Vecka 22, Iteration 11
 * [ ] Redovisning av projekt.
 * [ ] Slutleverans och överlämning till kund.
@@ -83,4 +83,4 @@ Applikationen kommer att bestå av en back-end-del utvecklad i Ruby on Rails. De
 Front-end kommer att bestå av ....
 
 ***
-*Senast uppdaterad 2016-04-10*
+*Senast uppdaterad 2016-04-22*
