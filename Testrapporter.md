@@ -51,6 +51,10 @@ Lista på automatiska tester och resultat [här](http://htmlpreview.github.io/?h
 #### Testmiljö
 Publicerad version av [applikationen](http://188.166.165.105/).
 
+Testat i Chrome Version 49.0.2623.112 m (64-bit)
+
+### Resultat
+
 |#    |Testfall                                            |Resultat          |Kommentar|
 |-----|----------------------------------------------------|------------------|---------|
 |1.1|Logga in med korrekta uppgifter                       |:white_check_mark:||
@@ -67,6 +71,7 @@ Publicerad version av [applikationen](http://188.166.165.105/).
 |3.3|Ta bort juridiskt ärende                              |:white_check_mark:||
 
 ### Analys 
+Applikationen fungerar överlag bra. Några av de manuella testerna felade eftersom jag inte har implementerat några felmeddelanden på front-end. Förutom det fungerar validering på serversidan som den ska. 
 
 ## Testrapport Iteration 5, Vecka 17
 
