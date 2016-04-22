@@ -30,36 +30,36 @@
 ## 2. Funktionella krav
 
 #### 2.1. Användarkonto
-|#|Krav                                         ||
-|-----------------------------------------------|----|------|
-|2.1.1|Logga in med e-post och lösenord.|:white_check_mark:|
-|2.1.2|Ändra användaruppgifter.|:white_check_mark:|
-|2.2.3|Återställa lösenord.|:white_large_square:|
-|2.2.4|Bli ihågkommen mellan sessioner.|:white_check_mark:|
-|2.2.5|Logga ut.|:white_check_mark:|
+|#     |Krav                                    |                    |Testas?|
+|------|----------------------------------------|--------------------|-------|
+|2.1.1|Logga in med e-post och lösenord.        |:white_check_mark:  |M, A|
+|2.1.2|Ändra användaruppgifter.                 |:white_check_mark:  |A|
+|2.2.3|Återställa lösenord.                     |:white_large_square:||
+|2.2.4|Bli ihågkommen mellan sessioner.         |:white_check_mark:  ||
+|2.2.5|Logga ut.                                |:white_check_mark:  |A|
 
 #### 2.2. Hantera klienter
-|#|Krav                                         ||
-|-----------------------------------------------|----|------|
-|2.2.1|Skapa klienter.|:white_large_square:|
-|2.2.2|Få en lista över klienter.|:white_check_mark:|
-|--2.2.2.1|Filtera listan på klienter med sökord.|:white_check_mark:|
-|2.2.3|Redigera klienter.|:white_check_mark:|
-|2.2.4|Radera klienter.|:white_check_mark:|
-|2.2.5|Lägga till kontaktuppgifter till klient.|:white_large_square:|
-|--2.2.5.1|Redigera kontaktuppgift.|:white_large_square:|
-|--2.2.5.2|Ta bort kontaktuppgift.|:white_large_square:|
+|#      |Krav                                    |                   |Testas?|
+|-------|----------------------------------------|-------------------|-------|
+|2.2.1|Skapa klienter.                           |:white_check_mark   |M     |
+|2.2.2|Få en lista över klienter.                |:white_check_mark:  |M     |
+|--2.2.2.1|Filtera listan på klienter med sökord.|:white_check_mark:  |      |
+|2.2.3|Redigera klienter.                        |:white_check_mark:  |M     |
+|2.2.4|Radera klienter.                          |:white_check_mark:  |M     |
+|2.2.5|Lägga till kontaktuppgifter till klient.  |:white_large_square:|      |
+|--2.2.5.1|Redigera kontaktuppgift.              |:white_large_square:|      |
+|--2.2.5.2|Ta bort kontaktuppgift.               |:white_large_square:|      |
 
 #### 2.3. Hantera juridiska ärenden
-|#|Krav                                         ||
-|-----------------------------------------------|----|------|
-|2.3.1|Registera ärenden som tillhör en klient.|:white_large_square:|
-|2.3.2|Få en lista över ärenden.|:white_large_square:|
-|--2.3.2.1|Filtera listan på ärenden med sökord.|:white_large_square:|
-|--2.3.2.2|Välja mellan att visa aktiva och ej aktiva ärenden.|:white_large_square:|
-|2.3.3|Redigera ärende.|:white_large_square:|
-|2.3.4|Radera ärende.|:white_large_square:|
-|2.3.6|Se summering av arbetade timmar med ett ärende.|:white_large_square:|
+|#     |Krav                                                  |                    |Testas?
+|-----|-------------------------------------------------------|--------------------|------|
+|2.3.1|Registera ärenden som tillhör en klient.               |:white_large_square:|M     |
+|2.3.2|Få en lista över ärenden.                              |:white_large_square:|M     |
+|--2.3.2.1|Filtera listan på ärenden med sökord.              |:white_large_square:|      |
+|--2.3.2.2|Välja mellan att visa aktiva och ej aktiva ärenden.|:white_large_square:|      |
+|2.3.3|Redigera ärende.                                       |:white_large_square:|M     |
+|2.3.4|Radera ärende.                                         |:white_large_square:|M     |
+|2.3.6|Se summering av arbetade timmar med ett ärende.        |:white_large_square:|      |
 
 #### 2.4. Hantera tidrapporter
 |#|Krav                                         ||
