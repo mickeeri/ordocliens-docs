@@ -1,9 +1,9 @@
 # Testrapporter
-[Iteration 1](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-1-vecka-13)
-[Iteration 2](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-2-vecka-14)
-[Iteration 4](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-3-vecka-15)
-[Iteration 5](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-4-vecka-16)
-[Iteration 6](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-5-vecka-17)
+* [Iteration 1](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-1-vecka-13)
+* [Iteration 2](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-2-vecka-14)
+* [Iteration 4](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-3-vecka-15)
+* [Iteration 5](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-4-vecka-16)
+* [Iteration 6](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-5-vecka-17)
 
 ## Testrapport Iteration 1, Vecka 13
 
