@@ -13,6 +13,22 @@
 ### Automatiska tester
 Se automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-03.html).
 
+### Manuella tester
+|#    |Testfall                         |Resultat          |Kommentar|
+|-----|---------------------------------|------------------|---------|
+|1.1|Logga in med korrekta uppgifter    |:white_check_mark:||
+|2.1|Skapa klient                       |                  ||
+|2.1.1|Skapa klient utan att ange nödvändiga fält                      |                  ||
+|2.2|Redigera klient                     |                  ||
+|2.2.1|Redigera klient utan att ange nödvändiga fält                     |                  ||
+|2.2.2|Redigera klient navigering                    |                  ||
+|2.3|Ta bort klient                 |                  ||
+|3.1|Skapa juridiskt ärenden           |                  ||
+|3.1.2|Skapa juridiskt ärenden utan att fylla i namn.         |                  ||
+|3.2|Redigera juridiskt ärende.        |                  ||
+|3.2.1|Redigera juridiskt ärende utan att ange nödvändiga fält.        |                  ||
+|3.3|Ta bort juridiskt ärende        |                  ||
+
 ### Analys
 Systemet är fortfarande i inledningsfasen, men det verkar efter testningen vara en bra grund att bygga ut projektet på.
 
