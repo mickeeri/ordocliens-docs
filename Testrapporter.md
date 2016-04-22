@@ -13,22 +13,6 @@
 ### Automatiska tester
 Se automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-03.html).
 
-### Manuella tester
-|#    |Testfall                         |Resultat          |Kommentar|
-|-----|---------------------------------|------------------|---------|
-|1.1|Logga in med korrekta uppgifter    |:white_check_mark:||
-|2.1|Skapa klient                       |                  ||
-|2.1.1|Skapa klient utan att ange nödvändiga fält                      |                  ||
-|2.2|Redigera klient                     |                  ||
-|2.2.1|Redigera klient utan att ange nödvändiga fält                     |                  ||
-|2.2.2|Redigera klient navigering                    |                  ||
-|2.3|Ta bort klient                 |                  ||
-|3.1|Skapa juridiskt ärenden           |                  ||
-|3.1.2|Skapa juridiskt ärenden utan att fylla i namn.         |                  ||
-|3.2|Redigera juridiskt ärende.        |                  ||
-|3.2.1|Redigera juridiskt ärende utan att ange nödvändiga fält.        |                  ||
-|3.3|Ta bort juridiskt ärende        |                  ||
-
 ### Analys
 Systemet är fortfarande i inledningsfasen, men det verkar efter testningen vara en bra grund att bygga ut projektet på.
 
@@ -54,12 +38,33 @@ Rapport från automatiska tester finns [här](http://htmlpreview.github.io/?http
 Systemet känns fortfarande stabilt. Har försökt men inte lycktas med att göra tester för vyerna eftersom det är React som renderar innehållet. Får försöka nästa vecka eller enbart testa det manuellt. 
 
 ## Testrapport Iteration 4, Vecka 16
+### Version
+[v0.4](https://github.com/me222wm/1dv42e-me222wm/tree/v0.4)
 
 ### Datum 
 2016-04-22
 
 ### Automatiska tester
 Lista på automatiska tester och resultat [här](http://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-22.html)
+
+### Manuella tester
+#### Testmiljö
+Publicerad version av [applikationen](http://188.166.165.105/).
+
+|#    |Testfall                                            |Resultat          |Kommentar|
+|-----|----------------------------------------------------|------------------|---------|
+|1.1|Logga in med korrekta uppgifter                       |:white_check_mark:||
+|2.1|Skapa klient                                          |:white_check_mark:||
+|2.1.1|Skapa klient utan att ange nödvändiga fält          |:x:|Visas inte felmeddelanden.|
+|2.2|Redigera klient                                       |:white_check_mark:||
+|2.2.1|Redigera klient utan att ange nödvändiga fält       |:x:|Inga felmeddelanden.|
+|2.2.2|Redigera klient navigering                          |:white_check_mark:||
+|2.3|Ta bort klient                                        |:white_check_mark:||
+|3.1|Skapa juridiskt ärenden                               |:white_check_mark:||
+|3.1.2|Skapa juridiskt ärenden utan att fylla i namn.      |:x:|Inget felmeddelande.|
+|3.2|Redigera juridiskt ärende.                            |:white_check_mark:||
+|3.2.1|Redigera juridiskt ärende utan att ange nödvändiga fält.|:x:|Inget felmeddelande.|
+|3.3|Ta bort juridiskt ärende                              |:white_check_mark:||
 
 ### Analys 
 
