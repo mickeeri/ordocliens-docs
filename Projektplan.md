@@ -49,13 +49,17 @@ Projektet genomförs av en person som har ca 200 timmar till sitt förfogande.
 * [x] Testrapport
 
 ##### Vecka 16, Iteration 4
-* [ ] Fortsatt implementation.
-* [ ] Blir färdig med klient-crud
-* [ ] Börja med crud för ärenden
-* [ ] Publicering.  
-* [ ] Testrapport
+* [x] Fortsatt implementation.
+* [x] CRUD för klient.
+* [x] Börja med CRUD för ärenden
+* [x] Publicering.  
+* [x] Testrapport
 
 ##### Vecka 17, Iteration 5
+* [x] Fortsatt implementation.
+* [x] CRUD för tidrapporter.
+* [x] Publicering och release.   
+* [x] Testrapport
 
 ##### Vecka 18, Iteration 6
 
@@ -64,9 +68,11 @@ Projektet genomförs av en person som har ca 200 timmar till sitt förfogande.
 ##### Vecka 20, Iteration 9
 
 ##### Vecka 21, Iteration 10
-
+* [ ] Hitta en permanent serverlösning. 
+* 
 ##### Vecka 22, Iteration 11
 * [ ] Redovisning av projekt.
+* [ ] Slutleverans och överlämning till kund.
 
 ##### Vecka 23, Iteration 12
 * [ ] Inlämning av praktiskt arbete senast 2016-06-10.
