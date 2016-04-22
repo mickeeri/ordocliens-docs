@@ -41,7 +41,7 @@
 #### 2.2. Hantera klienter
 |#|Krav                                         ||
 |-----------------------------------------------|----|------|
-|2.2.1|Registera klienter.|:white_large_square:|
+|2.2.1|Skapa klienter.|:white_large_square:|
 |2.2.2|Få en lista över klienter.|:white_check_mark:|
 |--2.2.2.1|Filtera listan på klienter med sökord.|:white_check_mark:|
 |2.2.3|Redigera klienter.|:white_check_mark:|

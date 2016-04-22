@@ -2,6 +2,9 @@
 
 ## 1. Användare
 ### TF 1.1. Logga in med korrekta uppgifter
+#### Krav som testas
+2.1.1: Logga in med e-post och lösenord.
+
 #### Förkrav
 En användare finns i databasen.
 
@@ -17,6 +20,9 @@ En användare finns i databasen.
 
 ## 2. Klienter
 ### TF 2.1. Skapa klient
+#### Krav som testas
+* 2.2.1. Skapa klienter.
+* 2.2.2. Få en lista över klienter.
 
 #### Förkrav
 * TF 1.1. Användaren är inloggad.
@@ -41,10 +47,15 @@ Anteckningar: Lorem ipsum
 * Omdirigeras till den skapade klientens sida.
 * Meddelande "Klient skapad!" visas.
 * Information om klienten som motsvarare ifyllda uppgifter visas.
+* Klienten visas i listan över klienter `/clients`.
 
 ***
 
 ### TF 2.1.1 Skapa klient utan att ange nödvändiga fält
+#### Krav som testas
+* 2.2.1. Skapa klienter.
+* 1.1.2. Lämpliga fel- och rättmeddelanden ska presenteras för användaren.
+
 #### Förkrav
 * TF 1.1. Användaren är inloggad.
 
@@ -65,6 +76,9 @@ Anteckningar: Lorem ipsum
 ***
 
 ### TF 2.2. Redigera klient
+#### Krav som testas
+2.2.3	Redigera klienter.
+
 #### Förkrav
 * TF 1.1. Användaren är inloggad.
 * TF 2.1. Klient skapad och befinner sig på klientens sida. Url: "clients/:id"
@@ -85,6 +99,10 @@ Anteckningar: Lorem ipsum
 ***
 
 ### TF 2.2.1 Redigera klient utan att ange nödvändiga fält
+#### Krav som testas
+* 2.2.3	Redigera klienter.
+* 1.1.2. Lämpliga fel- och rättmeddelanden ska presenteras för användaren.
+
 #### Förkrav
 * TF 1.1. Användaren är inloggad.
 * TF 2.1. Klient skapad och befinner sig på klientens sida, url: "clients/:id"
@@ -104,6 +122,9 @@ Anteckningar: Lorem ipsum
 
 ### TF 2.2.2 Redigera klient navigering
 Testa att knappar på redigeringssidan uppvisar förväntat beteende.
+#### Krav som testas
+* 2.2.3	Redigera klienter.
+
 #### Förkrav
 * TF 1.1. Användaren är inloggad.
 * TF 2.1. Klient skapad och befinner sig på klientens sida, url: "clients/:id"
@@ -120,9 +141,12 @@ Att klicka på knapparna gör att sidan ändrar mellan redigeringsläge och visn
 ***
 
 ### TF 2.3 Ta bort klient
+#### Krav som testas
+2.2.4	Radera klienter.
+
 #### Förkrav
 * TF 1.1. Användaren är inloggad.
-* TF 2.1. Klient skapad och befinner sig på klientens sida, url: "clients/:id"
+* TF 2.1. Klient skapad och befinner sig på klientens sida, `/clients/:id`.
 
 #### Scenario
 1. Klicka på "Ta bort klient".
@@ -133,3 +157,114 @@ Att klicka på knapparna gör att sidan ändrar mellan redigeringsläge och visn
 #### Efterkrav
 * Omdirigeras till startsidan. Url: "/clients".
 * Ett meddelande "Klienten har raderats" visas.
+
+
+## 3. Juridiska ärenden
+### TF 3.1 Skapa juridiskt ärenden
+#### Krav som testas
+* 2.3.1. Registera ärenden som tillhör en klient.
+* 2.3.2. Få en lista över ärenden.
+
+#### Förkrav
+* TF 1.1. Användaren är inloggad.
+* TF 2.1. Klient skapad och befinner sig på klientens sida: `clients/:id`.
+
+#### Scenario
+1. Klicka på "Lägg till ärende".
+2. Klicka på "Avbryt".
+3. Klicka på "Lägg till ärende" igen.
+4. Skriv "Ett nytt ärende" i fältet "Ärendenamn".
+
+#### Efterkrav
+* Omdirigeras till ärendets visningssida: `/clients/:id/legal_cases/:id`.
+* Ett meddelande "Ärende har skapats!" visas.
+* Ärende med ifyllt namn visas. Ärendet är aktivt.
+* Ärendet skall finnas i listan över ärenden om man klickar på länken till klientens sida.
+
+***
+
+### TF 3.1.2 Skapa juridiskt ärenden utan att fylla i namn.
+#### Krav som testas
+* 2.3.1. Registera ärenden som tillhör en klient.
+* 1.1.2. Lämpliga fel- och rättmeddelanden ska presenteras för användaren.
+
+#### Förkrav
+* TF 1.1. Användaren är inloggad.
+* TF 2.1. Klient skapad och befinner sig på klientens sida: `clients/:id`.
+
+#### Scenario
+1. Klicka på "Lägg till ärende".
+2. Klicka på "Spara" utan att ange "Ärendenamn".
+
+#### Efterkrav
+* Kvar på samma formulär.
+* Felmeddelande visas.
+* Ärende är ej sparat.
+
+***
+
+### TF 3.2 Redigera juridiskt ärende.
+Testar att det går att redigera ett ärende. Testar även att det är skifta mellan redigeringsläge och visningsläge.
+#### Krav som testas
+2.3.3	Redigera ärende.
+
+#### Förkrav
+* TF 1.1. Användaren är inloggad.
+* TF 2.1. Klient skapad och befinner sig på klientens sida: `clients/:id`.
+* TF 3.1. Juridiskt ärende finns och användaren befinner sig på ärendets sida: `clients/:id/legal_cases/:id`.
+
+#### Scenario
+1. Klicka på "Redigera ärende".
+2. Kontrollera att tidigare värde är förifyllt.
+3. Klicka på "Avbryt".
+4. Klicka på "Redigera ärende".
+5. Klicka på "Redigera ärende" igen.
+6. Klicka på "Redigera ärende" ännu en gång för att få upp formuläret.
+7. Ange "Ett redigerat ärende" i fältet "Ärendenamn".
+
+#### Efterkrav
+* Ärendets sida befinner sig i visningsläge.
+* Meddelande om att ärende har skapats visas.
+* Ärendets namn, uppdaterat-datum och "breadcrumb-länken" är uppdaterade.
+
+***
+
+### TF 3.2.1 Redigera juridiskt ärende utan att ange nödvändiga fält.
+#### Krav som testas
+* 2.3.3	Redigera ärende.
+* 1.1.2. Lämpliga fel- och rättmeddelanden ska presenteras för användaren.
+
+#### Förkrav
+* TF 1.1. Användaren är inloggad.
+* TF 2.1. Klient skapad och befinner sig på klientens sida: `clients/:id`.
+* TF 3.1. Juridiskt ärende finns och användaren befinner sig på ärendets sida: `clients/:id/legal_cases/:id`.
+
+#### Scenario
+1. Klicka på "Redigera ärende".
+2. Radera tidigare värde så att fältet "Ärendenamn" är tomt.
+3. Klicka på "Spara".
+
+#### Efterkrav
+* Kvar på samma formuläret.
+* Ett felmeddelande visas.
+* Uppgifterna har inte uppdaterats.
+
+### TF 3.3 Ta bort juridiskt ärende
+#### Krav som testas
+2.3.4	Radera ärende.
+
+#### Förkrav
+* TF 1.1. Användaren är inloggad.
+* TF 2.1. Klient skapad och befinner sig på klientens sida: `clients/:id`.
+* TF 3.1. Juridiskt ärende finns och användaren befinner sig på ärendets sida: `clients/:id/legal_cases/:id`.
+
+#### Scenario
+1. Klicka på "Ta bort ärende".
+2. Klicka på "Avbryt".
+3. Klicka på "Ta bort ärende" igen.
+4. Klicka på "Ja".
+
+#### Efterkrav
+* Omdirigeras till ärendets klient sida: `/clients/:id`.
+* Meddelande "Ärendet har raderats" visas.
+* Ärendet visas inte i listan på klientens ärenden.
