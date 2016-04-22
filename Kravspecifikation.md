@@ -41,7 +41,7 @@
 #### 2.2. Hantera klienter
 |#      |Krav                                    |                   |Testas?|
 |-------|----------------------------------------|-------------------|-------|
-|2.2.1|Skapa klienter.                           |:white_check_mark   |M     |
+|2.2.1|Skapa klienter.                           |:white_check_mark:  |M     |
 |2.2.2|Få en lista över klienter.                |:white_check_mark:  |M     |
 |--2.2.2.1|Filtera listan på klienter med sökord.|:white_check_mark:  |      |
 |2.2.3|Redigera klienter.                        |:white_check_mark:  |M     |
@@ -62,17 +62,17 @@
 |2.3.6|Se summering av arbetade timmar med ett ärende.        |:white_large_square:|      |
 
 #### 2.4. Hantera tidrapporter
-|#|Krav                                         ||
-|-----------------------------------------------|----|------|
-|2.4.1|Lägga till tidrapporter med tid i timmar, notering och datum.|:white_large_square:|
-|2.4.2|När man lägger till datum ska dagens datum vara förifyllt.|:white_large_square:|
-|2.4.3|Välja mellan fyra olika prisklasser: arbete, utlägg, tidsspillan låg och tidsspillan hög.|:white_large_square:|
+|#     |Krav                                                                                    |                    |Testas?|
+|------|----------------------------------------------------------------------------------------|--------------------|------|
+|2.4.1|Lägga till tidrapporter med tid i timmar, notering och datum.                            |:white_large_square:|      |
+|2.4.2|När man lägger till datum ska dagens datum vara förifyllt.                               |:white_large_square:|      |
+|2.4.3|Välja mellan fyra olika prisklasser: arbete, utlägg, tidsspillan låg och tidsspillan hög.|:white_large_square:|      |
 
 #### 2.5. Hantera konstnadsräkningar/rapporter
-|#|Krav                                         ||
-|-----------------------------------------------|----|------|
-|2.5.1|Få en genererad kostnadsräkning när ärende är avslutat.|:white_large_square:|
-|2.5.2|Rapporten ska genereras och beräknas automatisk men gå att redigera.|:white_large_square:|
+|#     |Krav                                                                |                    |Testas?|
+|------|--------------------------------------------------------------------|--------------------|------|
+|2.5.1 |Få en genererad kostnadsräkning när ärende är avslutat.              |:white_large_square:||
+|2.5.2 |Rapporten ska genereras och beräknas automatisk men gå att redigera. |:white_large_square:||
 
 ***
-*Senast uppdaterad 2016-04-11*
+*Senast uppdaterad 2016-04-22*
