@@ -239,7 +239,6 @@ Testar att det går att redigera ett ärende. Testar även att det är skifta me
 
 #### Förkrav
 * TF 1.1. Användaren är inloggad.
-* TF 2.1. Klient skapad och befinner sig på klientens sida: `clients/:id`.
 * TF 3.1. Juridiskt ärende finns och användaren befinner sig på ärendets sida: `clients/:id/legal_cases/:id`.
 
 #### Scenario
