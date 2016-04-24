@@ -1,4 +1,4 @@
-# Iteration 2 (Vecka 14)
+# Iteration 3 (Vecka 15)
 
 ## Analys av föregående iteration
 Har arbetat mycket med React för att få sidan där en enskild klient visas att fungera bra, och så att man också kan ta bort och redigera klienten. Någonting som har ställt till det har varit att jag har klientens kontaktuppgifter i en annan tabell, någonting som jag tror lönar sig i längden men är svårt att få till i gränssnittet nu. Har ännu inte hunnit med att göra så att det går att lägga till en klient. Men jag bör kunna återanvända redan skriven kod för att imlementera det. 
