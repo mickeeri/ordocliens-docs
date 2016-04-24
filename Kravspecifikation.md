@@ -53,20 +53,23 @@
 #### 2.3. Hantera juridiska ärenden
 |#     |Krav                                                  |                    |Testas?
 |-----|-------------------------------------------------------|--------------------|------|
-|2.3.1|Registera ärenden som tillhör en klient.               |:white_large_square:|M     |
-|2.3.2|Få en lista över ärenden.                              |:white_large_square:|M     |
+|2.3.1|Registera ärenden som tillhör en klient.               |:white_check_mark:|M     |
+|2.3.2|Få en lista över ärenden.                              |:white_check_mark:|M     |
 |--2.3.2.1|Filtera listan på ärenden med sökord.              |:white_large_square:|      |
 |--2.3.2.2|Välja mellan att visa aktiva och ej aktiva ärenden.|:white_large_square:|      |
-|2.3.3|Redigera ärende.                                       |:white_large_square:|M     |
-|2.3.4|Radera ärende.                                         |:white_large_square:|M     |
+|2.3.3|Redigera ärende.                                       |:white_check_mark:|M     |
+|2.3.4|Radera ärende.                                         |:white_check_mark:|M     |
 |2.3.6|Se summering av arbetade timmar med ett ärende.        |:white_large_square:|      |
 
 #### 2.4. Hantera tidrapporter
 |#     |Krav                                                                                    |                    |Testas?|
 |------|----------------------------------------------------------------------------------------|--------------------|------|
 |2.4.1|Lägga till tidrapporter med tid i timmar, notering och datum.                            |:white_large_square:|      |
-|2.4.2|När man lägger till datum ska dagens datum vara förifyllt.                               |:white_large_square:|      |
-|2.4.3|Välja mellan fyra olika prisklasser: arbete, utlägg, tidsspillan låg och tidsspillan hög.|:white_large_square:|      |
+|--2.4.1.1|När man lägger till datum ska dagens datum vara förifyllt.                               |:white_large_square:|      |
+|--2.4.1.2|Välja mellan fyra olika prisklasser: arbete, utlägg, tidsspillan låg och tidsspillan hög.|:white_large_square:|      |
+|2.4.2|Redigera tidrapport|:white_large_square:|      |
+|2.4.3|Ta bort tidrapport|:white_large_square:|      |
+|2.4.4|Visa tidrapport för ärende|:white_large_square:|      |
 
 #### 2.5. Hantera konstnadsräkningar/rapporter
 |#     |Krav                                                                |                    |Testas?|
