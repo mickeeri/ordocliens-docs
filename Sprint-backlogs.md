@@ -5,7 +5,8 @@
 * [Iteration 1](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-1-vecka-13)
 * [Iteration 2](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-2-vecka-14)
 * [Iteration 3](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-3-vecka-15)
-* [Iteration 4](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-4-vecka-16-nuvarande)
+* [Iteration 4](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-4-vecka-16)
+* [Iteration 5](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-5-vecka-17 (nuvarande))
 
 ***
 
@@ -46,7 +47,7 @@
 |Publicering och delleverans                      ||:white_check_mark:|
 |Iterationsplan för nästa vecka                    ||:white_check_mark:|
 
-### Iteration 4, Vecka 16 (nuvarande)
+### Iteration 4, Vecka 16
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
 |Lägga till klient                              |2.2.1|:white_check_mark:|
@@ -61,6 +62,22 @@
 |Anlysera kodkvalitet med Rubocop                      ||:white_check_mark:|
 |Testrapport                                      ||:white_check_mark:|
 |Publicering och release                      ||:white_check_mark:|
+|Iterationsplan för nästa vecka                    ||:white_check_mark:|
+
+### Iteration 5, Vecka 17 (nuvarande)
+|Uppgift                                        |Krav||
+|-----------------------------------------------|----|--------------------|
+|Lägga till tidrapport                          |2.2.1|:white_large_square:|
+|Redigera tidrapport                  |2.2.5|:white_large_square:|
+|Ta bort tidrapport                        |2.2.5.1|:white_large_square:|
+|Visa tidrapport                         |2.2.5.2|:white_large_square:|
+|Fixa paginering klienter               |2.3.2|:white_large_square:|
+|Felhantering formulär för klienter       |2.3.1|:white_large_square:|
+|Tester                                          |1.2.1|:white_large_square:|
+|Dokumentation                                 ||:white_large_square:|
+|Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
+|Testrapport                                      ||:white_large_square:|
+|Publicering och release                      ||:white_large_square:|
 |Iterationsplan för nästa vecka                    ||:white_large_square:|
 
-### Iteration 5, Vecka 17
+### Iteration 6, Vecka 18
