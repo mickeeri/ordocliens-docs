@@ -67,12 +67,12 @@
 ### Iteration 5, Vecka 17 (nuvarande)
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
-|Lägga till tidrapport                          |2.2.1|:white_large_square:|
-|Redigera tidrapport                  |2.2.5|:white_large_square:|
-|Ta bort tidrapport                        |2.2.5.1|:white_large_square:|
-|Visa tidrapport                         |2.2.5.2|:white_large_square:|
-|Fixa paginering klienter               |2.3.2|:white_large_square:|
-|Felhantering formulär för klienter       |2.3.1|:white_large_square:|
+|Lägga till tidrapport                          |2.4.1|:white_large_square:|
+|Redigera tidrapport                  |2.4.2|:white_large_square:|
+|Ta bort tidrapport                        |2.4.3|:white_large_square:|
+|Visa tidrapport                         |2.4.4|:white_large_square:|
+|Fixa paginering klienter               |2.2.2|:white_large_square:|
+|Felhantering formulär för klienter       |1.1.2|:white_large_square:|
 |Tester                                          |1.2.1|:white_large_square:|
 |Dokumentation                                 ||:white_large_square:|
 |Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
