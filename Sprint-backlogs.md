@@ -68,7 +68,7 @@
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
 |Lägga till tidrapport                          |2.4.1|:white_check_mark:|
-|Redigera tidrapport                  |2.4.2|:white_large_square:|
+|Redigera tidrapport                  |2.4.2|:white_check_mark:|
 |Ta bort tidrapport                        |2.4.3|:white_check_mark:|
 |Visa tidrapport                         |2.4.4|:white_check_mark:|
 |Fixa paginering klienter               |2.2.2|:white_large_square:|
