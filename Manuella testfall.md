@@ -44,7 +44,7 @@ Anteckningar: Lorem ipsum
 3. Klicka på "Spara"
 
 #### Efterkrav
-* Omdirigeras till den skapade klientens sida.
+* Omdirigeras till den skapade klientens sida `/clients/:id`.
 * Meddelande "Klient skapad!" visas.
 * Information om klienten som motsvarare ifyllda uppgifter visas.
 * Klienten visas i listan över klienter `/clients`.
@@ -71,7 +71,6 @@ Anteckningar: Lorem ipsum
 #### Efterkrav
 * Felmeddelande visas.
 * Kvar på formulär för att skapa klient.
-* Returnerar statuskod 422 i webbläsarens konsol.
 * Klient har inte blivit skapad.
 
 ***
@@ -179,10 +178,8 @@ Att klicka på knapparna gör att sidan ändrar mellan redigeringsläge och visn
 4. Skriv "Ett nytt ärende" i fältet "Ärendenamn".
 
 #### Efterkrav
-* Omdirigeras till ärendets visningssida: `/clients/:id/legal_cases/:id`.
-* Ett meddelande "Ärende har skapats!" visas.
 * Ärende med ifyllt namn visas. Ärendet är aktivt.
-* Ärendet skall finnas i listan över ärenden om man klickar på länken till klientens sida.
+* Ärendet skall finnas i listan över ärenden på klientens sida.
 
 ***
 
