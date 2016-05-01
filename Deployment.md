@@ -86,3 +86,6 @@ cap production deploy
 
 Starta om server
 sudo service nginx restart
+
+### Använbara kommandon
+starta om servern `sudo shutdown -r now`
