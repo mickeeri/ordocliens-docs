@@ -73,11 +73,11 @@
 |Visa tidrapport                         |2.4.4|:white_check_mark:|
 |Fixa paginering klienter               |2.2.2|:white_large_square:|
 |Felhantering formulär för klienter       |1.1.2|:white_check_mark:|
-|Tester                                          |1.2.1|:white_large_square:|
-|Dokumentation                                 ||:white_large_square:|
-|Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
-|Testrapport                                      ||:white_large_square:|
-|Publicering och release                      ||:white_large_square:|
-|Iterationsplan för nästa vecka                    ||:white_large_square:|
+|Tester                                          |1.2.1|:white_check_mark:|
+|Dokumentation                                 ||:white_check_mark:|
+|Anlysera kodkvalitet med Rubocop                      ||:white_check_mark:|
+|Testrapport                                      ||:white_check_mark:|
+|Publicering och release                      ||:white_check_mark:|
+|Iterationsplan för nästa vecka                    ||:white_check_mark:|
 
 ### Iteration 6, Vecka 18
