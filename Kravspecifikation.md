@@ -62,12 +62,12 @@
 #### 2.4. Hantera tidrapporter
 |#     |Krav                                                                                    |                    |Testas?|
 |------|----------------------------------------------------------------------------------------|--------------------|------|
-|2.4.1|Lägga till tidrapporter med tid i timmar, notering och datum.                            |:white_large_square:|      |
-|--2.4.1.1|När man lägger till datum ska dagens datum vara förifyllt.                               |:white_large_square:|      |
-|--2.4.1.2|Välja mellan fyra olika prisklasser: arbete, utlägg, tidsspillan låg och tidsspillan hög.|:white_large_square:|      |
-|2.4.2|Redigera tidrapport|:white_large_square:|      |
-|2.4.3|Ta bort tidrapport|:white_large_square:|      |
-|2.4.4|Visa tidrapport för ärende|:white_large_square:|      |
+|2.4.1|Lägga till tidrapporter med tid i timmar, notering och datum.                            |:white_check_mark:|      |
+|--2.4.1.1|När man lägger till datum ska dagens datum vara förifyllt.                               |:white_check_mark:|      |
+|--2.4.1.2|Välja mellan fyra olika prisklasser: arbete, utlägg, tidsspillan låg och tidsspillan hög.|:white_check_mark:|      |
+|2.4.2|Redigera tidrapport|:white_check_mark:|      |
+|2.4.3|Ta bort tidrapport|:white_check_mark:|      |
+|2.4.4|Visa tidrapport för ärende|:white_check_mark:|      |
 
 #### 2.5. Hantera konstnadsräkningar/rapporter
 |#     |Krav                                                                |                    |Testas?|
