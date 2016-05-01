@@ -64,20 +64,30 @@
 |Publicering och release                      ||:white_check_mark:|
 |Iterationsplan för nästa vecka                    ||:white_check_mark:|
 
-### Iteration 5, Vecka 17 (nuvarande)
+### Iteration 5, Vecka 17
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
 |Lägga till tidrapport                          |2.4.1|:white_check_mark:|
 |Redigera tidrapport                  |2.4.2|:white_check_mark:|
 |Ta bort tidrapport                        |2.4.3|:white_check_mark:|
 |Visa tidrapport                         |2.4.4|:white_check_mark:|
-|Fixa paginering klienter               |2.2.2|:white_large_square:|
+|Fixa paginering klienter               |2.2.2|:white_check_mark:|
 |Felhantering formulär för klienter       |1.1.2|:white_check_mark:|
 |Tester                                          |1.2.1|:white_check_mark:|
 |Dokumentation                                 ||:white_check_mark:|
 |Anlysera kodkvalitet med Rubocop                      ||:white_check_mark:|
 |Testrapport                                      ||:white_check_mark:|
-|Publicering och release                      ||:white_check_mark:|
-|Iterationsplan för nästa vecka                    ||:white_check_mark:|
+|Publicering och delrelease                      ||:white_check_mark:|
+|Iterationsplan för nästa iteration 6                    ||:white_check_mark:|
 
-### Iteration 6, Vecka 18
+### Iteration 6, Vecka 18 (nuvarande)
+|Uppgift                                        |Krav||
+|-----------------------------------------------|----|--------------------|
+|Ärende/mål rätt kolumner i databasen             ||:white_large_square:|
+|Börja på kostadsräkning för ärende             ||:white_large_square:|
+|Tester                                          |1.2.1|:white_large_square:|
+|Dokumentation                                 ||:white_large_square:|
+|Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
+|Testrapport                                      ||:white_large_square:|
+|Publicering och delrelease                      ||:white_large_square:|
+|Iterationsplan för iteration 7                    ||:white_large_square:|
