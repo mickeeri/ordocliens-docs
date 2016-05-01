@@ -39,16 +39,14 @@
 |2.2.5|Logga ut.                                |:white_check_mark:  |A|
 
 #### 2.2. Hantera klienter
-|#      |Krav                                    |                   |Testas?|
-|-------|----------------------------------------|-------------------|-------|
-|2.2.1|Skapa klienter.                           |:white_check_mark:  |M     |
-|2.2.2|Få en lista över klienter.                |:white_check_mark:  |M     |
-|--2.2.2.1|Filtera listan på klienter med sökord.|:white_check_mark:  |      |
-|2.2.3|Redigera klienter.                        |:white_check_mark:  |M     |
-|2.2.4|Radera klienter.                          |:white_check_mark:  |M     |
-|2.2.5|Lägga till kontaktuppgifter till klient.  |:white_large_square:|      |
-|--2.2.5.1|Redigera kontaktuppgift.              |:white_large_square:|      |
-|--2.2.5.2|Ta bort kontaktuppgift.               |:white_large_square:|      |
+|#      |Krav                                                                |                   |Testas?|
+|-------|--------------------------------------------------------------------|-------------------|-------|
+|2.2.1|Skapa klienter.                                                       |:white_check_mark:  |M     |
+|2.2.2|Få en lista över klienter.                                            |:white_check_mark:  |M     |
+|--2.2.2.1|Filtera listan på klienter med sökord.                            |:white_check_mark:  |      |
+|2.2.3|Redigera klienter.                                                    |:white_check_mark:  |M     |
+|2.2.4|Radera klienter.                                                      |:white_check_mark:  |M     |
+|2.2.5|Välja mellan att visa alla firmans klienter eller bara egna klienter. |:white_large_square:|     |
 
 #### 2.3. Hantera juridiska ärenden
 |#     |Krav                                                  |                    |Testas?
@@ -78,4 +76,4 @@
 |2.5.2 |Rapporten ska genereras och beräknas automatisk men gå att redigera. |:white_large_square:||
 
 ***
-*Senast uppdaterad 2016-04-22*
+*Senast uppdaterad 2016-05-01*
