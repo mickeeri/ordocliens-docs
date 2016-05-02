@@ -1,9 +1,10 @@
 # Testrapporter
 * [Iteration 1](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-1-vecka-13)
 * [Iteration 2](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-2-vecka-14)
-* [Iteration 4](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-3-vecka-15)
-* [Iteration 5](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-4-vecka-16)
-* [Iteration 6](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-5-vecka-17)
+* [Iteration 3](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-3-vecka-15)
+* [Iteration 4](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-4-vecka-16)
+* [Iteration 5](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-5-vecka-17)
+* [Iteration 6](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-6-vecka-18)
 
 ## Testrapport Iteration 1, Vecka 13
 
@@ -75,13 +76,13 @@ Applikationen fungerar överlag bra. Några av de manuella testerna felade efter
 
 ## Testrapport Iteration 5, Vecka 17
 ### Version
-[v0.5]()
+[v0.5](https://github.com/me222wm/1dv42e-me222wm/tree/v0.5)
 
 ### Datum 
 2016-04-30
 
 ### Automatiska tester
-Lista på automatiska tester och resultat [här]()
+Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-30.html)
 
 ### Manuella tester
 #### Testmiljö
