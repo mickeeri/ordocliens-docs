@@ -84,10 +84,15 @@
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
 |Ärende/mål rätt kolumner i databasen             ||:white_large_square:|
-|Börja på kostadsräkning för ärende             ||:white_large_square:|
+|Göra klart formulär för ärende           ||:white_large_square:|
+|Rapport i docx-format            ||:white_large_square:|
+|Meddelande vid uppdaterad eller borttagen resurs.            ||:white_large_square:|
+|Sökbar lista på motparter         ||:white_large_square:|
 |Tester                                          |1.2.1|:white_large_square:|
 |Dokumentation                                 ||:white_large_square:|
 |Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
 |Testrapport                                      ||:white_large_square:|
 |Publicering och delrelease                      ||:white_large_square:|
 |Iterationsplan för iteration 7                    ||:white_large_square:|
+
+### Iteration 7, Vecka 19
