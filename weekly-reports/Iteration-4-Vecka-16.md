@@ -10,3 +10,15 @@ För Iteration 5 är målet att skapa crud-funktionalitet för tidrapporering, d
 
 ### Uppgifter
 [Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-5-vecka-17).
+
+# Iteration 5 (Vecka 17)
+
+## Analys av iteration
+Ligger bra till enligt planeringen. Har dock fastnat lite för mycket i gränssnittet istället för att få de stora bitarna på plats. Måste göra mockups för att fundera över hur sidorna ska se ut innan jag arbetar för mycket med dem. Blir lätt att man fastnar med detaljer i css:en, vilket är för tidigt för att göra i det här stadiet. 
+
+## Planering för iteration 6.
+Backend-delen bör bli färdig nu. Men ska lägga till några kolumner i databasen efter kundens önskemål. Ska även utforska möjligheten att skapa en rapport eftersom det var ett önskemål från kunden och är en potientiell risk. 
+
+### Uppgifter
+[Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-6-vecka-18-nuvarande).
+
