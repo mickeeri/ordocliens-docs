@@ -96,3 +96,11 @@
 |Iterationsplan för iteration 7                    ||:white_large_square:|
 
 ### Iteration 7, Vecka 19
+
+### Iteration 8, Vecka 20
+
+### Iteration 9, Vecka 21
+
+### Iteration 10, Vecka 22
+
+### Iteration 11, Vecka 23
