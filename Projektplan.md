@@ -62,19 +62,23 @@ Projektet genomförs av en person som har ca 200 timmar till sitt förfogande.
 * [x] Testrapport
 
 ##### Vecka 18, Iteration 6
+* [] Fortsatt implementation.
+* [] Databas klar.
+* [] Publicering och release.   
+* [] Testrapport
 
 ##### Vecka 19, Iteration 7
 
-##### Vecka 20, Iteration 9
+##### Vecka 20, Iteration 8
 
-##### Vecka 21, Iteration 10
+##### Vecka 21, Iteration 9
 * [ ] Hitta en permanent serverlösning. 
  
-##### Vecka 22, Iteration 11
+##### Vecka 22, Iteration 10
 * [ ] Redovisning av projekt.
 * [ ] Slutleverans och överlämning till kund.
 
-##### Vecka 23, Iteration 12
+##### Vecka 23, Iteration 11
 * [ ] Inlämning av praktiskt arbete senast 2016-06-10.
 
 ### Projektets storlek
