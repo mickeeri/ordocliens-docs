@@ -88,4 +88,7 @@ Starta om server
 sudo service nginx restart
 
 ### Använbara kommandon
+Logga in
+`ssh deployer@188.166.165.105`
+
 starta om servern `sudo shutdown -r now`
