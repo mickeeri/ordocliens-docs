@@ -6,7 +6,9 @@
 * [Iteration 2](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-2-vecka-14)
 * [Iteration 3](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-3-vecka-15)
 * [Iteration 4](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-4-vecka-16)
-* [Iteration 5](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-5-vecka-17 (nuvarande))
+* [Iteration 5](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-5-vecka-17)
+* [Iteration 6](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-6-vecka-18)
+* [Iteration 7](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-7-vecka-19)
 
 ***
 
@@ -80,22 +82,33 @@
 |Publicering och delrelease                      ||:white_check_mark:|
 |Iterationsplan för nästa iteration 6                    ||:white_check_mark:|
 
-### Iteration 6, Vecka 18 (nuvarande)
+### Iteration 6, Vecka 18
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
-|Ärende/mål rätt kolumner i databasen             ||:white_large_square:|
-|Göra klart formulär för ärende           ||:white_large_square:|
-|Rapport i docx-format            ||:white_large_square:|
+|Ärende/mål rätt kolumner i databasen             ||:white_check_mark:|
+|Göra klart formulär för ärende           ||:white_check_mark:|
+|Rapport i docx-format            ||:white_check_mark:|
 |Meddelande vid uppdaterad eller borttagen resurs.            ||:white_large_square:|
 |Sökbar lista på motparter         ||:white_large_square:|
 |Tester                                          |1.2.1|:white_large_square:|
-|Dokumentation                                 ||:white_large_square:|
+|Dokumentation                                 ||:white_check_mark:|
 |Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
 |Testrapport                                      ||:white_large_square:|
 |Publicering och delrelease                      ||:white_large_square:|
-|Iterationsplan för iteration 7                    ||:white_large_square:|
+|Iterationsplan för iteration 7                    ||:white_check_mark:|
 
-### Iteration 7, Vecka 19
+### Iteration 7, Vecka 19 (nuvarande)
+|Uppgift                                        |Krav||
+|-----------------------------------------------|----|--------------------|
+|Sökbar lista på motparter         ||:white_check_mark:|
+|Sida för enskild motpart         ||:white_large_square:|
+|Sökbar lista på ärenden         ||:white_large_square:|
+|Få ordning på automatiska och manuella tester      |1.2.1|:white_large_square:|
+|Dokumentation                                 ||:white_check_mark:|
+|Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
+|Testrapport                                      ||:white_large_square:|
+|Publicering och delrelease                      ||:white_large_square:|
+|Iterationsplan för iteration 8                    ||:white_check_mark:|
 
 ### Iteration 8, Vecka 20
 
