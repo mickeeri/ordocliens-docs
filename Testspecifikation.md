@@ -15,6 +15,6 @@ Manuell testning kommer att ske på olika moderna webbläsare i flera enheter.
 ### Manuell testning
 
 ### Automatisk testning
-Testerna körs genom komandot ´rspec´. För att skapa rapport, ange: ´rspec --format html --out report.html´
+Testerna körs genom komandot `rspec`. För att skapa rapport, ange: `rspec --format html --out report.html`.
 ***
 
