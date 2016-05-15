@@ -102,7 +102,7 @@
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
 |Sökbar lista på motparter         ||:white_check_mark:|
-|Sida för enskild motpart         ||:white_large_square:|
+|Sida för enskild motpart         ||:white_check_mark:|
 |Sökbar lista på ärenden         ||:white_large_square:|
 |Få ordning på automatiska och manuella tester      |1.2.1|:white_check_mark:|
 |Dokumentation                                 ||:white_check_mark:|
