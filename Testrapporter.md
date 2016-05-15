@@ -130,23 +130,8 @@ Lokal miljö.
 
 Testat i Chrome Version 49.0.2623.112 m (64-bit)
 
-
 ### Resultat
-
-|#    |Testfall                                            |Resultat          |Kommentar|
-|-----|----------------------------------------------------|------------------|---------|
-|1.1|Logga in med korrekta uppgifter                       |:white_check_mark:||
-|2.1|Skapa klient                                          |:white_check_mark:||
-|2.1.1|Skapa klient utan att ange nödvändiga fält          |:white_check_mark:||
-|2.2|Redigera klient                                       |:white_check_mark:||
-|2.2.1|Redigera klient utan att ange nödvändiga fält       |:white_check_mark:||
-|2.2.2|Redigera klient navigering                          |:x:|Funktionalitet under arbete.|
-|2.3|Ta bort klient                                        |:white_check_mark:||
-|3.1|Skapa juridiskt ärenden                               |:white_check_mark:||
-|3.1.2|Skapa juridiskt ärenden utan att fylla i namn.      |:white_check_mark:||
-|3.2|Redigera juridiskt ärende.                            |:x:|Ändringar i gränssnittet gör att det inte går att redigera.|
-|3.2.1|Redigera juridiskt ärende utan att ange nödvändiga fält.|:x:||
-|3.3|Ta bort juridiskt ärende                              |:x:|Tas bort, men sker ingen redirect|
+[Under iteration 7](https://docs.google.com/spreadsheets/d/19ByAyJSDggYLkyr8cpJMBzUUrwEBiPM0XIpPJHqxQiY/edit#gid=1648702780)
 
 ### Analys 
-Applikationen fungerar bra på serversidan. Men på grund av stora förändingar i gränssnittet fungerar inte all funktionalitet som den ska. Det behövs bara små ändringar för att få det att fungera igen. 
+Alla testerna fungerar. Sytemet känns stabilt. 
