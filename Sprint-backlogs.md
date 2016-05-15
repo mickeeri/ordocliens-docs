@@ -97,20 +97,33 @@
 |Publicering och delrelease                      ||:white_large_square:|
 |Iterationsplan för iteration 7                    ||:white_check_mark:|
 
-### Iteration 7, Vecka 19 (nuvarande)
+### Iteration 7, Vecka 19
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
 |Sökbar lista på motparter         ||:white_check_mark:|
 |Sida för enskild motpart         ||:white_large_square:|
 |Sökbar lista på ärenden         ||:white_large_square:|
-|Få ordning på automatiska och manuella tester      |1.2.1|:white_large_square:|
+|Få ordning på automatiska och manuella tester      |1.2.1|:white_check_mark:|
 |Dokumentation                                 ||:white_check_mark:|
-|Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
-|Testrapport                                      ||:white_large_square:|
-|Publicering och delrelease                      ||:white_large_square:|
+|Anlysera kodkvalitet med Rubocop                      ||:white_check_mark:|
+|Testrapport                                      ||:white_check_mark:|
+|Publicering och delrelease                      ||:white_check_mark:|
 |Iterationsplan för iteration 8                    ||:white_check_mark:|
 
 ### Iteration 8, Vecka 20
+|Uppgift                                        |Krav||
+|-----------------------------------------------|----|--------------------|
+|Sökbar lista på ärenden         ||:white_large_square:|
+|Kontaktuppgifter för motpart     |2.4.1|:white_large_square:|
+|Ta bort motpart från ärende   |2.4.5|:white_large_square:|
+|Ta bort motpart helt och hållet |2.4.5|:white_large_square:|
+|Lägga till ärendekategorier |2.3.1|:white_large_square:|
+|Tester     |1.2.1|:white_large_square:|
+|Dokumentation                                 ||:white_large_square:|
+|Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
+|Testrapport                                      ||:white_large_square:|
+|Publicering och delrelease                      ||:white_large_square:|
+|Iterationsplan för iteration 8                    ||:white_large_square:|
 
 ### Iteration 9, Vecka 21
 
