@@ -57,6 +57,7 @@
 |--2.3.2.2|Välja mellan att visa aktiva och ej aktiva ärenden.|:white_large_square:|      |
 |2.3.3|Redigera ärende.                                       |:white_check_mark:|M     |
 |2.3.4|Radera ärende.                                         |:white_check_mark:|M     |
+|2.3.5|Arkivera ärende                                         |:white_check_mark:|M     |
 |2.3.6|Se summering av arbetade timmar med ett ärende.        |:white_large_square:|      |
 
 #### 2.4. Hantera motparter
@@ -81,11 +82,11 @@
 |2.5.3|Ta bort tidrapport|:white_check_mark:|      |
 |2.5.4|Visa tidrapport för ärende|:white_check_mark:|      |
 
-#### 2.5. Hantera konstnadsräkningar/rapporter
+#### 2.6. Hantera konstnadsräkningar/rapporter
 |#     |Krav                                                                |                    |Testas?|
 |------|--------------------------------------------------------------------|--------------------|------|
-|2.5.1 |Få en genererad kostnadsräkning när ärende är avslutat.              |:white_large_square:||
-|2.5.2 |Rapporten ska genereras och beräknas automatisk men gå att redigera. |:white_large_square:||
+|2.6.1 |Få en genererad kostnadsräkning när ärende är avslutat.              |:white_large_square:||
+|2.6.2 |Rapporten ska genereras och beräknas automatisk men gå att redigera. |:white_large_square:||
 
 ***
 *Senast uppdaterad 2016-05-01*
