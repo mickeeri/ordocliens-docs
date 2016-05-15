@@ -113,7 +113,7 @@
 ### Iteration 8, Vecka 20
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
-|Sökbar lista på ärenden         ||:white_large_square:|
+|Sökbar lista på ärenden         |2.3.1|:white_large_square:|
 |Kontaktuppgifter för motpart     |2.4.1|:white_large_square:|
 |Ta bort motpart från ärende   |2.4.5|:white_large_square:|
 |Ta bort motpart helt och hållet |2.4.5|:white_large_square:|
