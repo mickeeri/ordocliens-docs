@@ -34,3 +34,14 @@ Prioritet under iterationen är att få färdigt de stora byggstenarna. Det finn
 Sedan behöver jag också få ordning på testerna och publicera en version så snart som möjligt.
 
 [Planerade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-6-vecka-18)
+
+## Iteration 7 (Vecka 19)
+### Analys av iteration
+En fullständig applikation börjar nu växa fram. Har visat för kunden som är nöjd och visar stort intresse för applikationen. Det ökade intresset leder dock till en del önskemål om ändringar som gör att saker och ting tar längre tid. 
+
+[Avcheckade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-7-vecka-19)
+
+### Planering för iteration 8
+Planen är få klart applikationen så att jag kan lägga resterande tid på att göra förbättringar, fixa buggar och jobba med mindre ändringar i gränssnittet. 
+
+[Planerade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-8-vecka-19)
