@@ -59,15 +59,27 @@
 |2.3.4|Radera ärende.                                         |:white_check_mark:|M     |
 |2.3.6|Se summering av arbetade timmar med ett ärende.        |:white_large_square:|      |
 
-#### 2.4. Hantera tidrapporter
+#### 2.4. Hantera motparter
+|#     |Krav                                                  |                    |Testas?
+|-----|-------------------------------------------------------|--------------------|------|
+|2.4.1|Lägga till motparter till ärende               |:white_check_mark:|M     |
+|2.4.2|Få en lista över motparter.                              |:white_check_mark:|M     |
+|--2.4.2.1|Filtera listan på motparter med sökord.              |:white_check_mark:|      |
+|2.4.3|Redigera motpart.                                       |:white_check_mark:|M     |
+|2.4.4|Radera motpart helt och hållet                                    |:white_large_square:|M     |
+|2.4.5|Radera motpart från ärende.                                         |:white_large_square:|M     |
+|2.4.6|Lista över motparter ska visas på klients sida        |:white_check_mark:|      |
+|2.4.7|Motpart ska ha en lista över ärenden och klienter.        |:white_check_mark:|      |
+
+#### 2.5. Hantera tidrapporter
 |#     |Krav                                                                                    |                    |Testas?|
 |------|----------------------------------------------------------------------------------------|--------------------|------|
-|2.4.1|Lägga till tidrapporter med tid i timmar, notering och datum.                            |:white_check_mark:|      |
-|--2.4.1.1|När man lägger till datum ska dagens datum vara förifyllt.                               |:white_check_mark:|      |
-|--2.4.1.2|Välja mellan fyra olika prisklasser: arbete, utlägg, tidsspillan låg och tidsspillan hög.|:white_check_mark:|      |
-|2.4.2|Redigera tidrapport|:white_check_mark:|      |
-|2.4.3|Ta bort tidrapport|:white_check_mark:|      |
-|2.4.4|Visa tidrapport för ärende|:white_check_mark:|      |
+|2.5.1|Lägga till tidrapporter med tid i timmar, notering och datum.                            |:white_check_mark:|      |
+|--2.5.1.1|När man lägger till datum ska dagens datum vara förifyllt.                               |:white_check_mark:|      |
+|--2.5.1.2|Välja mellan fyra olika prisklasser: arbete, utlägg, tidsspillan låg och tidsspillan hög.|:white_check_mark:|      |
+|2.5.2|Redigera tidrapport|:white_check_mark:|      |
+|2.5.3|Ta bort tidrapport|:white_check_mark:|      |
+|2.5.4|Visa tidrapport för ärende|:white_check_mark:|      |
 
 #### 2.5. Hantera konstnadsräkningar/rapporter
 |#     |Krav                                                                |                    |Testas?|
