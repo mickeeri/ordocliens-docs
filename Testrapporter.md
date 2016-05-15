@@ -112,4 +112,41 @@ Testat i Chrome Version 49.0.2623.112 m (64-bit)
 Applikationen fungerar bra på serversidan. Men på grund av stora förändingar i gränssnittet fungerar inte all funktionalitet som den ska. Det behövs bara små ändringar för att få det att fungera igen. 
 
 ## Testrapport Iteration 6, Vecka 18
+Ingen testning. 
 
+## Testrapport Iteratin 7, Vecka 19
+### Version
+[v0.7](https://github.com/me222wm/1dv42e-me222wm/tree/v0.7)
+
+### Datum 
+2016-05-15
+
+### Automatiska tester
+Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-05-15.html)
+
+### Manuella tester
+#### Testmiljö
+Lokal miljö. 
+
+Testat i Chrome Version 49.0.2623.112 m (64-bit)
+
+
+### Resultat
+
+|#    |Testfall                                            |Resultat          |Kommentar|
+|-----|----------------------------------------------------|------------------|---------|
+|1.1|Logga in med korrekta uppgifter                       |:white_check_mark:||
+|2.1|Skapa klient                                          |:white_check_mark:||
+|2.1.1|Skapa klient utan att ange nödvändiga fält          |:white_check_mark:||
+|2.2|Redigera klient                                       |:white_check_mark:||
+|2.2.1|Redigera klient utan att ange nödvändiga fält       |:white_check_mark:||
+|2.2.2|Redigera klient navigering                          |:x:|Funktionalitet under arbete.|
+|2.3|Ta bort klient                                        |:white_check_mark:||
+|3.1|Skapa juridiskt ärenden                               |:white_check_mark:||
+|3.1.2|Skapa juridiskt ärenden utan att fylla i namn.      |:white_check_mark:||
+|3.2|Redigera juridiskt ärende.                            |:x:|Ändringar i gränssnittet gör att det inte går att redigera.|
+|3.2.1|Redigera juridiskt ärende utan att ange nödvändiga fält.|:x:||
+|3.3|Ta bort juridiskt ärende                              |:x:|Tas bort, men sker ingen redirect|
+
+### Analys 
+Applikationen fungerar bra på serversidan. Men på grund av stora förändingar i gränssnittet fungerar inte all funktionalitet som den ska. Det behövs bara små ändringar för att få det att fungera igen. 
