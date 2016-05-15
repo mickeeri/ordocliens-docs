@@ -104,6 +104,7 @@
 |Sökbar lista på motparter         ||:white_check_mark:|
 |Sida för enskild motpart         ||:white_check_mark:|
 |Sökbar lista på ärenden         ||:white_large_square:|
+|Meddelande vid uppdaterad resurs.            ||:white_check_mark:|
 |Få ordning på automatiska och manuella tester      |1.2.1|:white_check_mark:|
 |Dokumentation                                 ||:white_check_mark:|
 |Anlysera kodkvalitet med Rubocop                      ||:white_check_mark:|
