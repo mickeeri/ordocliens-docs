@@ -13,6 +13,9 @@ wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | \
 sudo apt-get update
 ```
 ```
+sudo apt-get install libpq-dev
+```
+```
 apt-get install postgresql-9.4
 ```
 #### Kom åt postgresql
