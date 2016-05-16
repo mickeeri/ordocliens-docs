@@ -1,19 +1,17 @@
 # Deploy app
 
 ### Postgressql
-http://www.postgresql.org/download/linux/ubuntu/
+[Installera PostgreSQL på Ubuntu](http://www.postgresql.org/download/linux/ubuntu/)
 
-Skapa filen touch /etc/apt/sources.list.d/pgdg.list
-```
-deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main
-```
-
+* Skapa filen pddg.list: `sudo touch /etc/apt/sources.list.d/pgdg.list`
+* Öppna den med `sudo nano /etc/apt/sources.list.d/pgdg.list`
+* Lägg till raden `deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main`
+* 
 ```
 wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | \
   sudo apt-key add -
 sudo apt-get update
 ```
-
 ```
 apt-get install postgresql-9.4
 ```
