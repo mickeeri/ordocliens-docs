@@ -21,3 +21,5 @@ Port: 5432
 
 #### How to install phantomJS
 https://gist.github.com/julionc/7476620
+
+https://gist.github.com/darokel/90fe5c8ad8df5efcab6b
