@@ -3,20 +3,32 @@
 ### Postgressql
 [Installera PostgreSQL på Ubuntu](http://www.postgresql.org/download/linux/ubuntu/)
 
-* Skapa filen pddg.list: `sudo touch /etc/apt/sources.list.d/pgdg.list`
-* Öppna den med `sudo nano /etc/apt/sources.list.d/pgdg.list`
-* Lägg till raden `deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main`
-* 
+```
+sudo touch /etc/apt/sources.list.d/pgdg.list
+```
+
+Öppna filen med 
+```
+sudo nano /etc/apt/sources.list.d/pgdg.list
+```
+
+Lägg till raden
+```
+deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main
+```
+Kör
 ```
 wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | \
   sudo apt-key add -
 sudo apt-get update
 ```
+Installera dependencies
 ```
 sudo apt-get install libpq-dev
 ```
+Installera postgres
 ```
-apt-get install postgresql-9.4
+sudo apt-get install postgresql-9.4
 ```
 #### Kom åt postgresql
 ```
