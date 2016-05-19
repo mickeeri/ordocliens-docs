@@ -115,11 +115,12 @@
 ### Iteration 8, Vecka 20
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
-|Sökbar lista på ärenden         |2.3.1|:white_large_square:|
+|Sökbar lista på ärenden         |2.3.1|:white_check_mark:|
 |Kontaktuppgifter för motpart     |2.4.1|:white_large_square:|
 |Ta bort motpart från ärende   |2.4.5|:white_large_square:|
 |Ta bort motpart helt och hållet |2.4.5|:white_large_square:|
-|Lägga till ärendekategorier |2.3.1|:white_large_square:|
+|Lägga till ärendekategorier |2.3.1|:white_check_mark:|
+|Aktomslag ||:white_large_square:|
 |Tester     |1.2.1|:white_large_square:|
 |Dokumentation                                 ||:white_large_square:|
 |Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
