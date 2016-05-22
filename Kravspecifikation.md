@@ -32,11 +32,11 @@
 #### 2.1. Användarkonto
 |#     |Krav                                    |                    |Testas?|
 |------|----------------------------------------|--------------------|-------|
-|2.1.1|Logga in med e-post och lösenord.        |:white_check_mark:  |M, A|
+|2.1.1|Logga in med e-post och lösenord.        |:white_check_mark:  |A, M|
 |2.1.2|Ändra användaruppgifter.                 |:white_check_mark:  |A|
 |2.2.3|Återställa lösenord.                     |:white_large_square:||
-|2.2.4|Bli ihågkommen mellan sessioner.         |:white_check_mark:  ||
-|2.2.5|Logga ut.                                |:white_check_mark:  |A|
+|2.2.4|Bli ihågkommen mellan sessioner.         |:white_check_mark:  |M|
+|2.2.5|Logga ut.                                |:white_check_mark:  |A, M|
 
 #### 2.2. Hantera klienter
 |#      |Krav                                                                |                   |Testas?|
