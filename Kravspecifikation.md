@@ -75,12 +75,18 @@
 #### 2.5. Hantera tidrapporter
 |#     |Krav                                                                                    |                    |Testas?|
 |------|----------------------------------------------------------------------------------------|--------------------|------|
-|2.5.1|Lägga till tidrapporter med tid i timmar, notering och datum.                            |:white_check_mark:|      |
-|--2.5.1.1|När man lägger till datum ska dagens datum vara förifyllt.                               |:white_check_mark:|      |
-|--2.5.1.2|Välja mellan fyra olika prisklasser: arbete, utlägg, tidsspillan låg och tidsspillan hög.|:white_check_mark:|      |
-|2.5.2|Redigera tidrapport|:white_check_mark:|      |
-|2.5.3|Ta bort tidrapport|:white_check_mark:|      |
-|2.5.4|Visa tidrapport för ärende|:white_check_mark:|      |
+|2.5.1|Lägga till arbete eller tidsspillan till tidrapport. |:white_check_mark:|      |
+|--2.5.1.1|När man lägger till datum ska dagens datum vara förifyllt.     |:white_check_mark:|      |
+|--2.5.1.2|Välja mellan fyra olika prisklasser: arbete, tidsspillan låg och tidsspillan hög.|:white_check_mark:|      |
+|2.5.2|Redigera arbetsrad|:white_check_mark:|      |
+|2.5.3|Ta bort arbetsrad|:white_check_mark:|      |
+|2.5.4|Lägga till utlägg till tidrapport|:white_check_mark:|      |
+|2.5.5|Redigera utläggsrad|:white_check_mark:|      |
+|2.5.6|Ta bort utläggsrad från tidrapport|:white_check_mark:|      |
+|2.5.7|Arbete och utlägg ska visas i en tabell|:white_check_mark:|      |
+|2.5.8|Tabellen ska kunna konverteras till ett .docx-dokument|:white_check_mark:|      |
+|--2.5.8.1|Arbetade timmar ska summeras efter priskategori.   |:white_check_mark:|      |
+|--2.5.8.2|Utlägg i kronor ska summeras. |:white_check_mark:|      |
 
 #### 2.6. Hantera konstnadsräkningar/rapporter
 |#     |Krav                                                                |                    |Testas?|
