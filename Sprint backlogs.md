@@ -10,7 +10,7 @@
 * [Iteration 6](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-6-vecka-18)
 * [Iteration 7](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-7-vecka-19)
 * [Iteration 8](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-8-vecka-20)
-* [Iteration 9](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-9-vecka-21)
+* [Iteration 9](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-9-vecka-21)
  
 ***
 
