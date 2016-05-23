@@ -5,6 +5,8 @@
 * [Iteration 4](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-4-vecka-16)
 * [Iteration 5](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-5-vecka-17)
 * [Iteration 6](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-6-vecka-18)
+* [Iteration 7](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-7-vecka-19)
+* [Iteration 8](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-8-vecka-20)
 
 ## Testrapport Iteration 1, Vecka 13
 
@@ -114,7 +116,7 @@ Applikationen fungerar bra på serversidan. Men på grund av stora förändingar
 ## Testrapport Iteration 6, Vecka 18
 Ingen testning. 
 
-## Testrapport Iteratin 7, Vecka 19
+## Testrapport Iteration 7, Vecka 19
 ### Version
 [v0.7](https://github.com/me222wm/1dv42e-me222wm/tree/v0.7)
 
@@ -135,3 +137,27 @@ Testat i Chrome Version 49.0.2623.112 m (64-bit)
 
 ### Analys 
 Alla testerna fungerar. Sytemet känns stabilt. 
+
+## Testrapport Iteration 8, Vecka 20
+### Version
+[v0.8](https://github.com/me222wm/1dv42e-me222wm/tree/v0.8)
+
+### Datum 
+2016-05-23
+
+### Automatiska tester
+Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-05-23.html)
+
+### Manuella tester
+#### Testmiljö
+Lokal miljö: 
+Testat i Chrome Version 50.0.2661.102 (64-bit)
+Publicerad applikation: 
+Testad i Microsoft Edge 25.19586.0.0
+
+#### Resultat
+Resultat från manuella tester presenterar numer [här](https://docs.google.com/spreadsheets/d/1rzFkEfqJGzqhJhAANs7PTpTYKmhoc2VUc4Grx-b3ISc/edit?usp=sharing)
+
+### Analys 
+Testerna går igenom. Samtidigt har det skett många förändringar på kort tid, vilket gör att det finns en osäkerhetskänsla. 
+
