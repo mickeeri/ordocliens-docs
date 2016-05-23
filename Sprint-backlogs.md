@@ -134,6 +134,9 @@
 |Ta bort motpart från ärende   |2.4.5|:white_large_square:|
 |Ta bort motpart helt och hållet |2.4.5|:white_large_square:|
 |Aktomslag ||:white_large_square:|
+|Pubcliera applikation på kundens VPS ||:white_large_square:|
+|Efternamn motpart ||:white_large_square:|
+|Meddelande vid borttagen resurs. ||:white_large_square:|
 |Tester           |1.2.1|:white_large_square:|
 |Dokumentation                                 ||:white_large_square:|
 |Testrapport                                      ||:white_large_square:|
