@@ -43,6 +43,11 @@ Skapa ny användare
 create user lawfirm with password 'MY_PASSWORD';
 ```
 
+Skapa databas
+```
+CREATE DATABASE lawfirm_development WITH OWNER micke ENCODING 'UTF8' TABLESPACE = pg_default LC_COLLATE 'sv_SE.UTF-8' LC_CTYPE 'sv_SE.UTF-8'  TEMPLATE template0;
+```
+
 Om det inete går att logga in med user
 http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge
 
