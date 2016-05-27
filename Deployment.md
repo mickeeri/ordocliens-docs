@@ -115,3 +115,6 @@ starta om servern `sudo shutdown -r now`
 The deploy has failed with an error: undefined local variable or method `logger'
 ```
 Sker om commitade ändringar inte har blivit pushade. 
+
+Ta bort förinstallerad apache-server
+http://askubuntu.com/questions/176964/permanently-removing-apache2
