@@ -145,5 +145,14 @@
 |Iterationsplan för iteration 10                    ||:white_large_square:|
 
 ### Iteration 10, Vecka 22
+|Uppgift                                        |Krav||
+|-----------------------------------------------|----|--------------------|
+|Meddelande vid borttagen resurs. ||:white_large_square:|
+|Tester                        |1.2.1|:white_large_square:|
+|Gå igenom applikationen i mobil och surfplatta   ||:white_large_square:|
+|Dokumentation                                 ||:white_large_square:|
+|Testrapport                                      ||:white_large_square:|
+|Publicering och delrelease                      ||:white_large_square:|
+|Iterationsplan för iteration 10                    ||:white_large_square:|
 
 ### Iteration 11, Vecka 23
