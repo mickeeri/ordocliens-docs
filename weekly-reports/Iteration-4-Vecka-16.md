@@ -58,3 +58,16 @@ Applikationen börjar bli klar. Men det finns många småsaker som skulle behöv
 Applikationen är tillräckligt klar för att snart börja användas. Därför kommer den här iterationen ägnas åt att de få de sista betydande bitarna på plats. 
 
 [Planerade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-9-vecka-21)
+
+## Iteration 9 (Vecka 21)
+### Analys av iteration
+Vi har nu ett fullt fungerande system och om de skulle vilja skulle kunden kunna lägga in sina klienter idag. Har dock en ganska lång lista på saker som kan förbättras och läggas till. Vissa planerar jag att göra nästa iteration. Andra får hamna på listan över framtida funktionalitet. Kunden har testat och är mycket nöjd med applikationen. Det finns eventuellt flera mindre företag som är intresserade. 
+
+[Avcheckade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-8-vecka-20)
+
+[Sprint backlog](https://docs.google.com/spreadsheets/d/19ByAyJSDggYLkyr8cpJMBzUUrwEBiPM0XIpPJHqxQiY/edit?usp=sharing)
+
+### Planering för iteration 10
+Planen är att fixa det mest viktiga som är kvar. Städa upp koden, testa hur applikationen ser ut på olika skärmstorlekar och testa ännu mera. 
+
+[Planerade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-10-vecka-22)
