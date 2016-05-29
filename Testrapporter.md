@@ -161,3 +161,24 @@ Resultat från manuella tester presenterar numer [här](https://docs.google.com/
 ### Analys 
 Testerna går igenom. Samtidigt har det skett många förändringar på kort tid, vilket gör att det finns en osäkerhetskänsla. 
 
+## Testrapport Iteration 9, Vecka 21
+### Version
+[v0.8](https://github.com/me222wm/1dv42e-me222wm/tree/v0.9)
+
+### Datum 
+2016-05-23
+
+### Automatiska tester
+Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-results%202016-05-29.html)
+
+### Manuella tester
+#### Testmiljö
+Kundens [VPS](http://ordocliens.familjejuristerna.com/) 
+Testat i Chrome Version 51.0.2704.63 (64-bit)
+
+#### Resultat
+Resultat från manuella tester presenterar numer [här](https://docs.google.com/spreadsheets/d/1rzFkEfqJGzqhJhAANs7PTpTYKmhoc2VUc4Grx-b3ISc/edit?usp=sharing)
+
+### Analys 
+Testerna går igenom. Dock finns det endel saker som ännu inte är testade. Åtminstonde är testningen av dem inte dokumenterad. Har nu en version av applikationen på kundens VPS på Loopia där de kan testa att lägga in några klienter och se hur det fungerar. 
+
