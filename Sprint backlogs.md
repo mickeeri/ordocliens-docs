@@ -127,22 +127,22 @@
 |Anlysera kodkvalitet med Rubocop                      ||:white_check_mark:|
 |Testrapport                                      ||:white_check_mark:|
 |Publicering och delrelease                      ||:white_check_mark:|
-|Iterationsplan för iteration 8                    ||:white_check_mark:|
+|Iterationsplan för iteration 9                    ||:white_check_mark:|
 
 ### Iteration 9, Vecka 21
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
-|Ta bort motpart från ärende   |2.4.5|:white_large_square:|
-|Ta bort motpart helt och hållet |2.4.5|:white_large_square:|
-|Aktomslag ||:white_large_square:|
-|Pubcliera applikation på kundens VPS ||:white_large_square:|
-|Efternamn motpart ||:white_large_square:|
+|Ta bort motpart från ärende   |2.4.5|:white_check_mark:|
+|Ta bort motpart helt och hållet |2.4.5|:white_check_mark:|
+|Aktomslag ||:white_check_mark:|
+|Pubcliera applikation på kundens VPS ||:white_check_mark:|
+|Efternamn motpart ||:white_check_mark:|
 |Meddelande vid borttagen resurs. ||:white_large_square:|
-|Tester           |1.2.1|:white_large_square:|
-|Dokumentation                                 ||:white_large_square:|
-|Testrapport                                      ||:white_large_square:|
-|Publicering och delrelease                      ||:white_large_square:|
-|Iterationsplan för iteration 8                    ||:white_large_square:|
+|Tester           |1.2.1|:white_check_mark:|
+|Dokumentation                                 ||:white_check_mark:|
+|Testrapport                                      ||:white_check_mark:|
+|Publicering och delrelease                      ||:white_check_mark:|
+|Iterationsplan för iteration 10                    ||:white_large_square:|
 
 ### Iteration 10, Vecka 22
 
