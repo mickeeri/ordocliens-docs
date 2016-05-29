@@ -149,7 +149,8 @@
 |-----------------------------------------------|----|--------------------|
 |Meddelande vid borttagen resurs. ||:white_large_square:|
 |Tester                        |1.2.1|:white_large_square:|
-|Gå igenom applikationen i mobil och surfplatta   ||:white_large_square:|
+|Gå igenom applikationen i mobil och surfplatta   |1.1.1|:white_large_square:|
+|Auktorisera att användare tillhör rätt firma   ||:white_large_square:|
 |Dokumentation                                 ||:white_large_square:|
 |Testrapport                                      ||:white_large_square:|
 |Publicering och delrelease                      ||:white_large_square:|
