@@ -8,7 +8,7 @@ I största möjligaste mån kommer automatiska tester att användas. Det gäller
 ### Testmiljö
 Testningen av back-end-delen kommer att testas med testramverket [RSpec](http://rspec.info/) för Ruby on Rails.
 
-Testning av React-komponenter sker med manuella tester.
+Testning av vissa vyer och React-komponenter sker med Rspec tillsammans med [Capybara](https://github.com/jnicklas/capybara). För att kunna testa JavaScript används  
 
 Manuell testning kommer att ske på olika moderna webbläsare i flera enheter.
 
