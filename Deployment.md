@@ -1,4 +1,12 @@
-# Deploy app
+# Publicera applikation
+
+### Beskrivning
+Processen som beskrivs nedan består i en beskrivning av hur jag har gått till väga för att publicera applikationen på en VPS bestående av Ubunu 14.04.4 x64. 
+
+### 1. Installera Ruby on Rails 
+För att installera Ruby on Rails används följande instruktioner. 
+```
+```
 
 ### Postgressql
 [Installera PostgreSQL på Ubuntu](http://www.postgresql.org/download/linux/ubuntu/)
