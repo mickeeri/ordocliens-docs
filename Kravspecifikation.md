@@ -26,6 +26,9 @@
 
 ## 2. Funktionella krav
 
+_A = Automatiskt test_
+_M = Manuellt test_
+
 #### 2.1. Användarkonto
 |#     |Krav                                    |                    |Test |
 |------|----------------------------------------|--------------------|-------|
@@ -87,6 +90,6 @@
 #### 2.6. Hantera konstnadsräkningar/rapporter
 |#     |Krav                                                                |                    |Testas?|
 |------|--------------------------------------------------------------------|--------------------|------|
-|2.6.1 |Få en genererad kostnadsräkning när ärende är avslutat.             |:white_large_square:|M |
-|2.6.2 |Rapporten ska genereras och beräknas automatisk men gå att redigera.|:white_large_square:|M|
+|2.6.1 |Få en genererad kostnadsräkning när ärende är avslutat.             |:white_check_mark:|M |
+|2.6.2 |Rapporten ska genereras och beräknas automatisk men gå att redigera.|:white_check_mark:|M|
 
