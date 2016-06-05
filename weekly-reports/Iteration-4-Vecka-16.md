@@ -1,4 +1,17 @@
 # Veckorapporter
+***
+
+* [Iteration 0](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/weekly-reports/Iteration-4-Vecka-16.md#iteration-0-vecka-12)
+* [Iteration 1](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/weekly-reports/Iteration-4-Vecka-16.md#iteration-1-vecka-13)
+* [Iteration 2](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/weekly-reports/Iteration-4-Vecka-16.md#iteration-2-vecka-14)
+* [Iteration 3](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/weekly-reports/Iteration-4-Vecka-16.md#iteration-3-vecka-15)
+* [Iteration 4](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/weekly-reports/Iteration-4-Vecka-16.md#iteration-4-vecka-16)
+* [Iteration 5](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/weekly-reports/Iteration-4-Vecka-16.md#iteration-5-vecka-17)
+* [Iteration 6](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/weekly-reports/Iteration-4-Vecka-16.md#iteration-6-vecka-18)
+* [Iteration 7](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/weekly-reports/Iteration-4-Vecka-16.md#iteration-7-vecka-19)
+* [Iteration 8](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/weekly-reports/Iteration-4-Vecka-16.md#iteration-8-vecka-20)
+* [Iteration 9](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/weekly-reports/Iteration-4-Vecka-16.md#uppgifter-iteration-9)
+* [Iteration 10](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/weekly-reports/Iteration-4-Vecka-16.md#iteration-10-vecka-22)
 
 ***
 
@@ -94,7 +107,7 @@ Ligger bra till enligt planeringen. Har dock fastnat lite för mycket i gränssn
 ### Avklarade uppgifter
 [Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-5-vecka-17)
 
-### Planering för iteration 6.
+### Planering för nästa iteration
 Backend-delen bör bli färdig nu. Men ska lägga till några kolumner i databasen efter kundens önskemål. Ska även utforska möjligheten att skapa en rapport i word-format, något som är ett önskemål från kunden. 
 
 ### Uppgifter iteration 6
@@ -109,7 +122,7 @@ Fick svårt att hinna med de uppgifter jag tagit mig an under iterationen. Detta
 ### Avklarade uppgifter
 [Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-6-vecka-18)
 
-### Planering för iteration 7
+### Planering för nästa iteration
 Prioritet under iterationen är att få färdigt de stora byggstenarna. Det finns fortfarande några problem som måste lösas. Exempelvis att kunden vill att ett juridiskt ärende ska ha flera klienter och flera motparter och att det ska gå att lista och söka efter alla motparter som är inblandade i en klients ärenden.
 
 Sedan behöver jag också få ordning på testerna och publicera en version så snart som möjligt.
@@ -126,7 +139,7 @@ En fullständig applikation börjar nu växa fram. Har visat för kunden som är
 ### Avklarade uppgifter
 [Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-7-vecka-19)
 
-### Planering för iteration 8
+### Planering för nästa iteration
 Planen är få klart applikationen så att jag kan lägga resterande tid på att göra förbättringar, fixa buggar och jobba med ändringar i gränssnittet.
 
 ### Uppgifter iteration 8
@@ -141,11 +154,13 @@ Applikationen börjar bli klar. Men det finns många småsaker som skulle behöv
 ### Avklarade uppgifter
 [Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-8-vecka-20)
 
-### Planering för iteration 9
+### Planering för nästa iteration
 Applikationen är tillräckligt klar för att snart börja användas. Därför kommer den här iterationen ägnas åt att de få de sista betydande bitarna på plats.
 
 ### Uppgifter iteration 9
 [Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-9-vecka-21)
+
+***
 
 ### Iteration 9 (Vecka 21)
 ### Analys av iteration
@@ -156,7 +171,7 @@ Vi har nu ett fullt fungerande system och om de skulle vilja skulle kunden kunna
 
 [Product backlog](https://docs.google.com/spreadsheets/d/19ByAyJSDggYLkyr8cpJMBzUUrwEBiPM0XIpPJHqxQiY/edit?usp=sharing)
 
-### Planering för iteration 10
+### Planering för nästa iteration
 Planen är att fixa det mest viktiga som är kvar. Städa upp koden, testa hur applikationen ser ut på olika skärmstorlekar och testa ännu mera.
 
 ### Uppgifter iteration 10
