@@ -8,6 +8,7 @@
 * [Iteration 7](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-7-vecka-19)
 * [Iteration 8](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-8-vecka-20)
 * [Iteration 9](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-9-vecka-21)
+* [Iteration 10](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-10-vecka-22)
 
 ## Testrapport Iteration 1, Vecka 13
 
@@ -184,19 +185,12 @@ Resultat från manuella tester presenterar numer [här](https://docs.google.com/
 Testerna går igenom. Dock finns det endel saker som ännu inte är testade. Åtminstonde är testningen av dem inte dokumenterad. Har nu en version av applikationen på kundens VPS på Loopia där de kan testa att lägga in några klienter och se hur det fungerar. 
 
 ## Testrapport Iteration 10, Vecka 22
-### Version
-[v0.9](https://github.com/me222wm/1dv42e-me222wm/tree/v1.0)
-
 ### Datum 
 2016-06-05
 
-### Automatiska tester
-Lista på automatiska tester och resultat [här](## Testrapport Iteration 9, Vecka 21
 ### Version
 [v0.9](https://github.com/me222wm/1dv42e-me222wm/tree/v0.9)
 
-### Datum 
-2016-05-23
 
 ### Automatiska tester
 Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-06-05.html)
