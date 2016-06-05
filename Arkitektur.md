@@ -11,7 +11,7 @@ app/assets/javascripts/components
 ```
 
 ### Databas 
-Databasen är konstruerad så att en användare ska tillhöra en firma och kunna ha flera klienter. En klient ska kunna tillhöra flera ärenden. Ett ärende kan också ha flera klienter, dock ska en av klienterna vara huvudklient. Det ska också gå till att lägga till flera motparter till ett ärende. Dessa ska också visas på sidan som tillhör alla klienter som deltar i ärendet. 
+Databasen är konstruerad så att en användare ska tillhöra en firma och kunna ha flera klienter. En klient ska kunna tillhöra flera ärenden. Ett ärende kan också ha flera klienter, dock ska en av klienterna vara huvudklient. Det ska också gå till att lägga till flera motparter till ett ärende. Dessa ska också visas på sidan som tillhör alla klienter som deltar i ärendet. Counterparts har en koppling till Firm eftersom det annars var svårt att välja ut de motparter som tillhör en viss firma. 
 
 ![Databasmodell](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/img/Lawfirm%20database%20(1).png)
 
