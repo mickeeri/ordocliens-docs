@@ -206,7 +206,7 @@ Testerna går igenom. Dock finns det endel saker som ännu inte är testade. Åt
 2016-06-05
 
 ### Version
-[v0.9](https://github.com/me222wm/1dv42e-me222wm/tree/v0.9)
+[v1.0](https://github.com/me222wm/1dv42e-me222wm/tree/v1.0)
 
 
 ### Automatiska tester
