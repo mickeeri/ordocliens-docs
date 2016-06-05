@@ -1,25 +1,8 @@
-# 1dv42e-me222wm-dokumentation
-### Körinstruktioner
+## Datavetenskap självständigt arbete
+###### Dokumentation för praktiskt arbete
 
-Skapa database.yml
-Skapa secret.yml
+### Projektdokument
+***[Vision](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Vision.md)***
 
-`$ sudo -u postgres psql postgres`
-`postgres=# \password postgres`
+[Projektplan](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Projektplan.md)
 
-`Enter new password:`
-`Enter it again:`
-
-`su - postgres`
-`psql`
-`create role myapp with createdb login password 'password1';`
-(glöm inte semikolon)
-`Ctrl+D` för att avsluta.
-
-
-Port: 5432
-
-#### How to install phantomJS
-https://gist.github.com/julionc/7476620
-
-https://gist.github.com/darokel/90fe5c8ad8df5efcab6b
