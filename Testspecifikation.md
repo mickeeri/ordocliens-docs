@@ -1,7 +1,7 @@
 # Testspecifikation
 
 ### Allmänna testprocedurer
-Testning bör ske i slutet av varje iteration. Det genomförs genom att automatiska tester körs och manuella testfall genomgås.
+Testning bör ske i slutet av varje iteration. Det genomförs genom att automatiska tester körs och manuella testfall genomgås. För att säkerställa att alla krav testas finns en kolum i kravspecifikationen där det specificeras om kravet har testats. 
 
 I största möjligaste mån kommer automatiska tester att användas. Det gäller främst back-end-delen. Front-end-delen som består mest av React-komponenter har visat sig vara svår att testa automatiskt. Hittade sent en lösning för att testa React-komponenterna och därför utgör de manuella testerna huvuddelen av testningen av front-end-delen. 
 
