@@ -105,7 +105,7 @@
 |-----------------------------------------------|----|--------------------|
 |Sökbar lista på motparter         ||:white_check_mark:|
 |Sida för enskild motpart         ||:white_check_mark:|
-|Sökbar lista på ärenden         ||:white_large_square:|
+|Sökbar lista på ärenden         ||:x:|
 |Meddelande vid uppdaterad resurs.            ||:white_check_mark:|
 |Få ordning på automatiska och manuella tester      |1.2.1|:white_check_mark:|
 |Dokumentation                                 ||:white_check_mark:|
@@ -120,7 +120,7 @@
 |Sökbar lista på ärenden         |2.3.1|:white_check_mark:|
 |Kontaktuppgifter för motpart     |2.4.1|:white_check_mark:|
 |Ta bort motpart från ärende   |2.4.5|:x:|
-|Ta bort motpart helt och hållet |2.4.5|:white_large_square:|
+|Ta bort motpart helt och hållet |2.4.5|:x:|
 |Lägga till ärendekategorier |2.3.1|:white_check_mark:|
 |Aktomslag ||:x:|
 |Tester     |1.2.1|:white_check_mark:|
