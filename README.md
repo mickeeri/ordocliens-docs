@@ -26,7 +26,7 @@ _Mikael Eriksson_
 ### Applikation och teknisk specifikation
 ***[Instruktioner för publicering](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Deployment.md)***
 
-***[Struktur](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Struktur.md)***
+***[Applikationens struktur](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Struktur.md)***
 
 ***[Applikationens repo med körinstruktioner](https://github.com/me222wm/1dv42e-me222wm)***
 
