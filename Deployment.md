@@ -4,18 +4,19 @@
 Processen som beskrivs nedan består i en beskrivning av hur jag har gått till väga för att publicera applikationen på en VPS bestående av Ubuntu 14.04.4 x64.
 
 ### 1. Installera Ruby on Rails
-För att installera Ruby och Ruby on Rails används följande instruktioner.
-```
-https://gorails.com/setup/ubuntu/14.04
-```
+För att installera Ruby och Ruby on Rails används följande instruktioner:
+
+[Setup Ruby On Rails on Ubuntu 14.04 Trusty Tahr](https://gorails.com/setup/ubuntu/14.04)
+
 Jag valde att använda `rvm` och `Ruby 2.3.1`.
 
 ### 2. Installera PostgreSQL databas
 
 För att installaera databasen använde jag instruktionerna på följande sida:
-```
-http://www.postgresql.org/download/linux/ubuntu/
-```
+
+[PostgreSQL Linux Downloads (Ubuntu)](http://www.postgresql.org/download/linux/ubuntu/)
+
+#### Steg för steg
 1. Skapa en pgdg.list-fil med.
 ```
 sudo touch /etc/apt/sources.list.d/pgdg.list
@@ -80,21 +81,19 @@ Avsluta
 
 ### 3. Installera NodeJS
 Node behövs också. Jag använde följande instruktioner för att installera det:
-```
-https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
-```
+
+[Installing Node.js via package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
 
 ### 5. Logga in på Github och server med SSH.
 Se _Step 5_ på följande sida:
-```
-https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
-```
+
+[Setting up SSH Keys](https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma)
 
 ### 6. Publicera applikation med Capistrano, Nginx och Puma.
 Jag använde instruktioner _Step 1_ och _Step 6_ på följande länk:
-```
-https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
-```
+
+[Deploying a Rails app on Ubuntu 14-04 with Capistrano Nginx and Puma](https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma)
+
 Eftersom filerna `database.yml` och `secrets.yml` inte ska versionshanteras behöver man skapa dem i mappen:
 ```
 /apps/lawfirm/shared/config
@@ -120,21 +119,15 @@ Starta om nginx
 `sudo service nginx restart`
 
 #### Ta bort apache-server om förinstallerad
-```
-http://askubuntu.com/questions/176964/permanently-removing-apache2
-```
+[Permanently removing apache2](http://askubuntu.com/questions/176964/permanently-removing-apache2)
 
 #### Inställningar ny Ubuntu-server
-```
-https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers
-```
+[Recommended steps for new Ubuntu 14-04 servers](https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers)
+
 
 #### Brandvägg
-```
-https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server
-```
+[How to setup a firewall with ufw](https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server)
+
 
 #### Använd Gmail för t.ex. återställningsmail
-```
-https://www.digitalocean.com/community/tutorials/how-to-set-up-gmail-with-your-domain-on-digitalocean
-```
+[How to set up gmail with your domain](https://www.digitalocean.com/community/tutorials/how-to-set-up-gmail-with-your-domain-on-digitalocean)
