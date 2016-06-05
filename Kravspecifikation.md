@@ -88,7 +88,7 @@ _M = Manuellt test_
 |--2.5.8.2|Utlägg i kronor ska summeras.                                                        |:white_check_mark:|M      |
 
 #### 2.6. Hantera konstnadsräkningar/rapporter
-|#     |Krav                                                                |                    |Testas?|
+|#     |Krav                                                                |                    |Test|
 |------|--------------------------------------------------------------------|--------------------|------|
 |2.6.1 |Få en genererad kostnadsräkning när ärende är avslutat.             |:white_check_mark:|M |
 |2.6.2 |Rapporten ska genereras och beräknas automatisk men gå att redigera.|:white_check_mark:|M|
