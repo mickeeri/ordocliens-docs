@@ -11,6 +11,7 @@
 * [Iteration 7](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-7-vecka-19)
 * [Iteration 8](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-8-vecka-20)
 * [Iteration 9](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-9-vecka-21)
+* [Iteration 10](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-10-vecka-22)
  
 ***
 
@@ -142,18 +143,17 @@
 |Dokumentation                                 ||:white_check_mark:|
 |Testrapport                                      ||:white_check_mark:|
 |Publicering och delrelease                      ||:white_check_mark:|
-|Iterationsplan för iteration 10                    ||:white_large_square:|
+|Iterationsplan för iteration 10                    ||:white_check_mark:|
 
 ### Iteration 10, Vecka 22
 |Uppgift                                        |Krav||
 |-----------------------------------------------|----|--------------------|
-|Meddelande vid borttagen resurs. ||:white_large_square:|
-|Tester                        |1.2.1|:white_large_square:|
-|Gå igenom applikationen i mobil och surfplatta   |1.1.1|:white_large_square:|
-|Auktorisera att användare tillhör rätt firma   ||:white_large_square:|
-|Dokumentation                                 ||:white_large_square:|
-|Testrapport                                      ||:white_large_square:|
-|Publicering och delrelease                      ||:white_large_square:|
-|Iterationsplan för iteration 10                    ||:white_large_square:|
+|Meddelande vid borttagen resurs. ||:white_check_mark:|
+|Tester                        |1.2.1|:white_check_mark:|
+|Gå igenom applikationen i mobil och surfplatta   |1.1.1|:white_check_mark:|
+|Auktorisera att användare tillhör rätt firma   ||:white_check_mark:|
+|Dokumentation                                 ||:white_check_mark:|
+|Testrapport                                      ||:white_check_mark:|
+|Publicering och delrelease                      ||:white_check_mark:|
+|Iterationsplan för iteration 10                    ||:white_check_mark:|
 
-### Iteration 11, Vecka 23
