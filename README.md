@@ -23,10 +23,10 @@ _Mikael Eriksson_
 
 ***[Testrapporter](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md)***
 
-### Applikation
+### Applikation och teknisk specifikation
 ***[Instruktioner för publicering](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Deployment.md)***
 
-***[Teknisk specifikation]()***
+***[Applikationens struktur](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Struktur.md)***
 
 ***[Applikationens repo med körinstruktioner](https://github.com/me222wm/1dv42e-me222wm)***
 
