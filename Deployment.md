@@ -17,45 +17,45 @@ För att installaera databasen använde jag instruktionerna på följande sida:
 [PostgreSQL Linux Downloads (Ubuntu)](http://www.postgresql.org/download/linux/ubuntu/)
 
 #### Steg för steg
-1. Skapa en pgdg.list-fil med.
+###### 1. Skapa en pgdg.list-fil med.
 ```
 sudo touch /etc/apt/sources.list.d/pgdg.list
 ```
-2. Öppna filen med
+###### 2. Öppna filen med
 ```
 sudo nano /etc/apt/sources.list.d/pgdg.list
 ```
-3. Lägg till raden
+###### 3. Lägg till raden
 ```
 deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main
 ```
-4. Kör
+###### 4. Kör
 ```
 wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | \
   sudo apt-key add -
 sudo apt-get update
 ```
-5. Installera dependencies
+###### 5. Installera dependencies
 ```
 sudo apt-get install libpq-dev
 ```
-6. Installera postgres
+###### 6. Installera postgres
 ```
 sudo apt-get install postgresql-9.4
 ```
-7. Logga in
+###### 7. Logga in
 ```
 sudo -u postgres psql postgres
 ```
-8. Ange nytt lösen. (Frivilligt)
+###### 8. Ange nytt lösen. (Frivilligt)
 ```
 postgres=# \password
 ```
-9. Skapa ny användare
+###### 9. Skapa ny användare
 ```
 postgres=# create user lawfirm with password 'MY_PASSWORD';
 ```
-10. Skapa databas. Ibland var jag tvungen att skapa databas först. Ibland skapas den av rails automatiskt.
+###### 10. Skapa databas. Ibland var jag tvungen att skapa databas först. Ibland skapas den av rails automatiskt.
 ```
 postgres=# CREATE DATABASE lawfirm_development WITH OWNER micke ENCODING 'UTF8' TABLESPACE = pg_default LC_COLLATE 'sv_SE.UTF-8' LC_CTYPE 'sv_SE.UTF-8'  TEMPLATE template0;
 ```
