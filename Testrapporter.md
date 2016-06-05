@@ -218,7 +218,7 @@ Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?
 Testat i Chrome Version Version 51.0.2704.63 (64-bit)
 
 #### Resultat
-Resultat från manuella tester presenterar numer [här](https://docs.google.com/spreadsheets/d/1rzFkEfqJGzqhJhAANs7PTpTYKmhoc2VUc4Grx-b3ISc/edit?usp=sharing)
+Resultat från manuella tester presenterar [här](https://docs.google.com/spreadsheets/d/1rzFkEfqJGzqhJhAANs7PTpTYKmhoc2VUc4Grx-b3ISc/edit?usp=sharing).
 
 ### Analys 
 Har testat ännu mer under den här iterationen och systemet känns stabilt. Sa på presentationen att det inte fanns några automatiska tester för vyerna (som mestadels består av React-komponententer), men jag har i sista stund lyckats implementera några tester för crud-funktionaliteten hos klienter och juridiska ärenden.  
