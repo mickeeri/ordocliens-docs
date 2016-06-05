@@ -4,7 +4,7 @@
 Juristbyrån Familjejuristerna består av två jurister som är i behov av en applikation för
 hantering av klienter och rättsliga ärenden, samt tidrapportering gällande dessa. Idag
 använder de sig av Excel­dokument där de har en fil för varje klient. Det är svårt att
-strukturera och omständligt att lägga in arbetstimmar vilket gör att de ibland går miste om ersättning.
+strukturera och omständligt att lägga in arbetstimmar, vilket gör att de ibland går miste om ersättning.
 
 ### Användar- och målgrupper
 Systemet ska rikta sig till mindre juristbyråer.
