@@ -1,128 +1,140 @@
 # Publicera applikation
 
 ### Beskrivning
-Processen som beskrivs nedan består i en beskrivning av hur jag har gått till väga för att publicera applikationen på en VPS bestående av Ubunu 14.04.4 x64. 
+Processen som beskrivs nedan består i en beskrivning av hur jag har gått till väga för att publicera applikationen på en VPS bestående av Ubuntu 14.04.4 x64.
 
-### 1. Installera Ruby on Rails 
-För att installera Ruby on Rails används följande instruktioner. 
+### 1. Installera Ruby on Rails
+För att installera Ruby och Ruby on Rails används följande instruktioner.
 ```
+https://gorails.com/setup/ubuntu/14.04
 ```
+Jag valde att använda `rvm` och `Ruby 2.3.1`.
 
-### Postgressql
-[Installera PostgreSQL på Ubuntu](http://www.postgresql.org/download/linux/ubuntu/)
+### 2. Installera PostgreSQL databas
 
+För att installaera databasen använde jag instruktionerna på följande sida:
+```
+http://www.postgresql.org/download/linux/ubuntu/
+```
+1. Skapa en pgdg.list-fil med.
 ```
 sudo touch /etc/apt/sources.list.d/pgdg.list
 ```
-
-Öppna filen med 
+2. Öppna filen med
 ```
 sudo nano /etc/apt/sources.list.d/pgdg.list
 ```
-
-Lägg till raden
+3. Lägg till raden
 ```
 deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main
 ```
-Kör
+4. Kör
 ```
 wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | \
   sudo apt-key add -
 sudo apt-get update
 ```
-Installera dependencies
+5. Installera dependencies
 ```
 sudo apt-get install libpq-dev
 ```
-Installera postgres
+6. Installera postgres
 ```
 sudo apt-get install postgresql-9.4
 ```
-#### Kom åt postgresql
+7. Logga in
 ```
 sudo -u postgres psql postgres
 ```
-Ange nytt lösen.
+8. Ange nytt lösen. (Frivilligt)
 ```
 postgres=# \password
 ```
-Skapa ny användare
+9. Skapa ny användare
 ```
-create user lawfirm with password 'MY_PASSWORD';
+postgres=# create user lawfirm with password 'MY_PASSWORD';
+```
+10. Skapa databas. Ibland var jag tvungen att skapa databas först. Ibland skapas den av rails automatiskt.
+```
+postgres=# CREATE DATABASE lawfirm_development WITH OWNER micke ENCODING 'UTF8' TABLESPACE = pg_default LC_COLLATE 'sv_SE.UTF-8' LC_CTYPE 'sv_SE.UTF-8'  TEMPLATE template0;
 ```
 
-Skapa databas
+#### Troubleshooting
+Problem med inloggning. Se [följande svar på Stack Overflow](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)
+
+#### Användbart
+Lista på databaser
 ```
-CREATE DATABASE lawfirm_development WITH OWNER micke ENCODING 'UTF8' TABLESPACE = pg_default LC_COLLATE 'sv_SE.UTF-8' LC_CTYPE 'sv_SE.UTF-8'  TEMPLATE template0;
+/l
+```
+Lista på alla roller
+```
+/du
+```
+Avsluta
+```
+\q
 ```
 
-Om det inete går att logga in med user
-http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge
+[Flytta databas från en server till en annan.](http://stackoverflow.com/questions/1237725/copying-postgresql-database-to-another-server)
 
-/l för att se alla databaser.
-/du för att se alla användare.
-
-#### ssh key
-ssh-keygen på lokala
-ssh-copy-id demo@SERVER_IP_ADDRESS
-
-
-Skapa databas
+### 3. Installera NodeJS
+Node behövs också. Jag använde följande instruktioner för att installera det:
 ```
-create database lawfirm_production owner lawfirm;
+https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
 ```
-`Ctrl+D` för att avsluta.
 
-Om man vill skicka mail:
-https://youtu.be/pgWWUrI9ZCs?t=5m47s
-
-#### Nodejs
-https://nodejs.org/en/download/package-manager/
+### 5. Logga in på Github och server med SSH.
+Se _Step 5_ på följande sida:
 ```
-curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
-sudo apt-get install -y nodejs
-```
-#### Skapa ny användare
-adduser deployer --ingroup admin
-Byt till den användaren
-su deployer
-
-#### Installera rbenv
-```
-curl https://raw.githubusercontent.com/fesplugas/rbenv-installer/master/bin/rbenv-installer | bash
-```
-Eller enl
-https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04
-
-Installera bundler
-gem install bundler --no-ri --no-rdoc
-rbenv rehash
-bundle -v
-
-
 https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
-
-### Github
-cat ~/.ssh/id_rsa.pub
-
-
-cap production deploy:initial
-
-cap production deploy
-
-Starta om server
-sudo service nginx restart
-
-### Använbara kommandon
-Logga in
-`ssh deployer@188.166.165.105`
-
-starta om servern `sudo shutdown -r now`
-
 ```
-The deploy has failed with an error: undefined local variable or method `logger'
-```
-Sker om commitade ändringar inte har blivit pushade. 
 
-Ta bort förinstallerad apache-server
+### 6. Publicera applikation med Capistrano, Nginx och Puma.
+Jag använde instruktioner _Step 1_ och _Step 6_ på följande länk:
+```
+https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
+```
+Eftersom filerna `database.yml` och `secrets.yml` inte ska versionshanteras behöver man skapa dem i mappen:
+```
+/apps/lawfirm/shared/config
+```
+
+Klista sedan in följande rad i filen `deploy.rb`:
+```
+set :linked_files, fetch(:linked_files, []).push("config/secrets.yml", "config/database.yml")
+```
+
+### 7. Deployment workflow
+1. Commita och pusha ändringar på Github.
+2. `cap production deploy`
+
+#### Troubleshooting
+Ibland behövdes servern startas om, pga minnesbrist eller att databasen var upptagen.
+1. `ssh deployer@remote_host`
+2. `sudo shutdown -r now`
+3. `cap production deploy`
+
+### Användbart
+Starta om nginx
+`sudo service nginx restart`
+
+#### Ta bort apache-server om förinstallerad
+```
 http://askubuntu.com/questions/176964/permanently-removing-apache2
+```
+
+#### Inställningar ny Ubuntu-server
+```
+https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers
+```
+
+#### Brandvägg
+```
+https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server
+```
+
+#### Använd Gmail för t.ex. återställningsmail
+```
+https://www.digitalocean.com/community/tutorials/how-to-set-up-gmail-with-your-domain-on-digitalocean
+```
