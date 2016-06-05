@@ -34,7 +34,7 @@
 |Layout med Bootstrap||:white_check_mark:|
 |Publicera applikation på DigitalOcean||:white_check_mark:|
 |Automatiska tester|1.2.1|:white_check_mark:|
-|Testrapport||:white_large_square:|
+|Testrapport||:x:|
 |Kontinuerligt arbete med dokumentation||:white_check_mark:|
 
 ### Iteration 3, Vecka 15
@@ -42,7 +42,7 @@
 |---------------------------------------------------|----|------|
 |Skapa modellklasser för kontaktuppgifter.      |2.2.1|:white_check_mark:|
 |Skapa modellklasser för tidrapporter/uppgifter.|2.4.1|:white_check_mark:|
-|Lägga till klient        |2.2.1|:white_large_square:|
+|Lägga till klient        |2.2.1|:x:|
 |Redigera klient   |2.2.3|:white_check_mark:|
 |Ta bort klient.         |2.2.4|:white_check_mark:|
 |Få ordning på dokumentation                        ||:white_check_mark:|
@@ -91,13 +91,13 @@
 |Ärende/mål rätt kolumner i databasen             ||:white_check_mark:|
 |Göra klart formulär för ärende           ||:white_check_mark:|
 |Rapport i docx-format            ||:white_check_mark:|
-|Meddelande vid uppdaterad eller borttagen resurs.            ||:white_large_square:|
-|Sökbar lista på motparter         ||:white_large_square:|
-|Tester                                          |1.2.1|:white_large_square:|
+|Meddelande vid uppdaterad eller borttagen resurs.            ||:x:|
+|Sökbar lista på motparter         ||:x:|
+|Tester                                          |1.2.1|:x:|
 |Dokumentation                                 ||:white_check_mark:|
-|Anlysera kodkvalitet med Rubocop                      ||:white_large_square:|
-|Testrapport                                      ||:white_large_square:|
-|Publicering och delrelease                      ||:white_large_square:|
+|Anlysera kodkvalitet med Rubocop                      ||:x:|
+|Testrapport                                      ||:x:|
+|Publicering och delrelease                      ||:x:|
 |Iterationsplan för iteration 7                    ||:white_check_mark:|
 
 ### Iteration 7, Vecka 19
@@ -119,10 +119,10 @@
 |-----------------------------------------------|----|--------------------|
 |Sökbar lista på ärenden         |2.3.1|:white_check_mark:|
 |Kontaktuppgifter för motpart     |2.4.1|:white_check_mark:|
-|Ta bort motpart från ärende   |2.4.5|:white_large_square:|
+|Ta bort motpart från ärende   |2.4.5|:x:|
 |Ta bort motpart helt och hållet |2.4.5|:white_large_square:|
 |Lägga till ärendekategorier |2.3.1|:white_check_mark:|
-|Aktomslag ||:white_large_square:|
+|Aktomslag ||:x:|
 |Tester     |1.2.1|:white_check_mark:|
 |Dokumentation                                 ||:white_check_mark:|
 |Anlysera kodkvalitet med Rubocop                      ||:white_check_mark:|
@@ -138,7 +138,7 @@
 |Aktomslag ||:white_check_mark:|
 |Pubcliera applikation på kundens VPS ||:white_check_mark:|
 |Efternamn motpart ||:white_check_mark:|
-|Meddelande vid borttagen resurs. ||:white_large_square:|
+|Meddelande vid borttagen resurs. ||:x:|
 |Tester           |1.2.1|:white_check_mark:|
 |Dokumentation                                 ||:white_check_mark:|
 |Testrapport                                      ||:white_check_mark:|
