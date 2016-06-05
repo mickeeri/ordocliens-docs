@@ -51,7 +51,7 @@ Testningen behöver också sättas igång, vilket den kommer att göra nästa ve
 
 ***
 
-# Iteration 3 (Vecka 15)
+### Iteration 3 (Vecka 15)
 
 ## Analys av veckans arbete
 Har arbetat mycket med att lära mig React. Har fått till en sida där en enskild klient visas. Det går också att redigera och ta bort klienten. Har problem med utformingen av databasen. 
@@ -123,46 +123,55 @@ Sedan behöver jag också få ordning på testerna och publicera en version så 
 ### Analys av iteration
 En fullständig applikation börjar nu växa fram. Har visat för kunden som är nöjd och visar stort intresse för applikationen. Det ökade intresset leder dock till en del önskemål om ändringar som gör att saker och ting tar längre tid.
 
-[Avcheckade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-7-vecka-19)
+### Avklarade uppgifter
+[Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-7-vecka-19)
 
 ### Planering för iteration 8
-Planen är få klart applikationen så att jag kan lägga resterande tid på att göra förbättringar, fixa buggar och jobba med mindre ändringar i gränssnittet.
+Planen är få klart applikationen så att jag kan lägga resterande tid på att göra förbättringar, fixa buggar och jobba med ändringar i gränssnittet.
 
-[Planerade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint-backlogs.md#iteration-8-vecka-19)
+### Uppgifter iteration 8
+[Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-8-vecka-20)
+
+***
 
 ### Iteration 8 (Vecka 20)
 ### Analys av iteration
-Applikationen börjar bli klar. Men det finns många småsaker som skulle behöva fixas. Har skrivit upp dem i en product backlog där de checkas av efter en prioritetsordning.
+Applikationen börjar bli klar. Men det finns många småsaker som skulle behöva fixas. Har skrivit upp dem i en [product backlog](https://docs.google.com/spreadsheets/d/19ByAyJSDggYLkyr8cpJMBzUUrwEBiPM0XIpPJHqxQiY/edit?usp=sharing) där de checkas av i prioritetsordning.
 
-[Avcheckade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-8-vecka-20)
-
-[Product backlog](https://docs.google.com/spreadsheets/d/19ByAyJSDggYLkyr8cpJMBzUUrwEBiPM0XIpPJHqxQiY/edit?usp=sharing)
+### Avklarade uppgifter
+[Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-8-vecka-20)
 
 ### Planering för iteration 9
 Applikationen är tillräckligt klar för att snart börja användas. Därför kommer den här iterationen ägnas åt att de få de sista betydande bitarna på plats.
 
-[Planerade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-9-vecka-21)
+### Uppgifter iteration 9
+[Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-9-vecka-21)
 
 ### Iteration 9 (Vecka 21)
 ### Analys av iteration
-Vi har nu ett fullt fungerande system och om de skulle vilja skulle kunden kunna lägga in sina klienter idag. Har dock en ganska lång lista på saker som kan förbättras och läggas till. Vissa planerar jag att göra nästa iteration. Andra får hamna på listan över framtida funktionalitet. Kunden har testat och är mycket nöjd med applikationen. Det finns eventuellt flera mindre företag som är intresserade.
+Vi har nu ett fullt fungerande system och om de skulle vilja skulle kunden kunna lägga in sina klienter idag. Har dock en ganska lång lista på saker som kan förbättras och läggas till. Vissa planerar jag att göra nästa iteration. Andra får hamna på listan över framtida funktionalitet. Kunden har testat och är mycket nöjd med applikationen. Flera andra jurister som känner min kund har även visat intresse. 
 
-[Avcheckade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-8-vecka-20)
+### Avklarade uppgifter
+[Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-8-vecka-20)
 
 [Product backlog](https://docs.google.com/spreadsheets/d/19ByAyJSDggYLkyr8cpJMBzUUrwEBiPM0XIpPJHqxQiY/edit?usp=sharing)
 
 ### Planering för iteration 10
 Planen är att fixa det mest viktiga som är kvar. Städa upp koden, testa hur applikationen ser ut på olika skärmstorlekar och testa ännu mera.
 
-[Planerade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-10-vecka-22)
+### Uppgifter iteration 10
+[Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-10-vecka-22)
+
+***
 
 ### Iteration 10 (Vecka 22)
 ### Analys av iteration
+Kunden har börjat använda applikationen och tycker att det är en bra produkt. Utvecklingen har i det stora hela gått enligt planeringen. Har fokuserat mest på testning under iterationen. 
 
-[Avcheckade uppgifter i Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-9-vecka-21)
-
+### Avklarade uppgifter
+[Sprint backlog](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Sprint%20backlogs.md#iteration-9-vecka-21)
 
 ### Planering för framtiden
-Projektet är redo för att användas, men det är inte färdigt för mig utan det blir ett projekt som jag kommer att arbeta på, förhoppningsvis länge framöver.
+Applikationen är redo för användning, men det är inte färdigt för mig utan blir ett projekt som jag kommer att bygga förbättra kontinuerligt. 
 
-Jag har samlat på mig en [lista](https://docs.google.com/spreadsheets/d/19ByAyJSDggYLkyr8cpJMBzUUrwEBiPM0XIpPJHqxQiY/edit?usp=sharing) på saker som behövs göras i en slags Product backlog. Där kan jag fortsätta att bocka för uppgifterna en efter en, men det kommer säkerligen att tillkomma fler förbättringar när applikationen börjar användas på riktigt.
+Min  [lista](https://docs.google.com/spreadsheets/d/19ByAyJSDggYLkyr8cpJMBzUUrwEBiPM0XIpPJHqxQiY/edit?usp=sharing) saker att göra och sådant som kan förbättras kommer att fortsätta att bockas av. 
