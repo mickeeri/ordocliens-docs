@@ -8,7 +8,7 @@ Anders Cederberg på Familjejuristerna Alverlind & Cederberg <br>
 Tel: 063-68 50 100 <br>
 E-post: info@familjejuristerna.com
 
-### Uppdragsgivare med kontaktuppgifter
+### Uppdragstagare med kontaktuppgifter
 Mikael Eriksson <br>
 E-post: me222wm@student.lnu.se <br>
 Skype: me222wm
@@ -20,7 +20,7 @@ Kunden är en juristfirma med två anställda som har svårt att hitta ett bra s
 Syftet med projektet är att skapa en applikation för den mindre juristfirman, där anställda kan logga in och registera nya kunder, rättsliga ärenden och arbetade timmar med varje ärende.
 
 ### Projektets mål
-Målet är att färdigställa en stabil applikation som följer de baskrav som finns specificerade i visionen  och som kunden kan använda i sitt dagliga arbete.
+Målet är att färdigställa en stabil applikation som följer de baskrav som finns specificerade i [visionen](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Vision.md)  och som kunden kan använda i sitt dagliga arbete.
 
 Framtida mål är att applikationen ska kunna användas av flera mindre juristfirmor än just kunden i fråga.
 
@@ -62,29 +62,30 @@ Projektet genomförs av en person som har ca 200 timmar till sitt förfogande.
 * [x] Testrapport
 
 ##### Vecka 18, Iteration 6
-* [] Fortsatt implementation.
-* [] Databas klar.
-* [] Publicering och release.   
-* [] Testrapport
+* [x] Fortsatt implementation.
+* [x] Databas klar.
+* [x] Publicering och release.   
+* [x] Testrapport
 
 ##### Vecka 19, Iteration 7
+* [x] Fortsatt implementation.
+* [x] Publicering och release.   
 
 ##### Vecka 20, Iteration 8
+* [x] Fortsatt implementation.
+* [x] Publicering och release.   
 
 ##### Vecka 21, Iteration 9
-* [ ] Hitta en permanent serverlösning. 
+* [x] Hitta en permanent serverlösning. 
+* [x] Publicering och release. 
  
 ##### Vecka 22, Iteration 10
-* [ ] Redovisning av projekt.
-* [ ] Slutleverans och överlämning till kund.
+* [x] Redovisning av projekt.
+* [x] Slutleverans och överlämning till kund.
 
-##### Vecka 23, Iteration 11
-* [ ] Inlämning av praktiskt arbete senast 2016-06-10.
+Inlämning av praktiskt arbete senast ~~2016-06-10~~ 2016-06-05.
 
 ### Projektets storlek
-Applikationen kommer att bestå av en back-end-del utvecklad i Ruby on Rails. Den består av ungefär 8 modellklasser och uppskattningsvis 8,000 rader kod.
+Applikationen kommer att bestå av en back-end-del utvecklad i Ruby on Rails. Den består av ungefär 8 modellklasser och uppskattningsvis 10,000 rader kod.
 
-Front-end kommer att bestå av ....
-
-***
-*Senast uppdaterad 2016-04-22*
+Front-end kommer att bestå av uppskattningsvis 10 vyer. 
