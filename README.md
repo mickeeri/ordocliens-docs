@@ -1,5 +1,6 @@
 ## Datavetenskap självständigt arbete
 ###### Dokumentation för praktiskt arbete
+_Mikael Eriksson_ 
 
 ### Projektdokument
 ***[Vision](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Vision.md)***
