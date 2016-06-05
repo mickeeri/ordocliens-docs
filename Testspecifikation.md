@@ -17,4 +17,4 @@ Manuella testfalls genomförande och resultat presenteras f.r.o.m Iteration 8 i 
 
 ### Automatisk testning
 Testerna körs genom kommandot `rspec`. För att skapa rapport, ange: `rspec --format html --out report.html`. Den kan sedan presenteras genom [Github HTML Preview](https://htmlpreview.github.io/).
-***
+
