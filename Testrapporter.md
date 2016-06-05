@@ -210,7 +210,7 @@ Testerna går igenom. Dock finns det endel saker som ännu inte är testade. Åt
 
 
 ### Automatiska tester
-Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-06-05.html)
+Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-06-05.html).
 
 ### Manuella tester
 #### Testmiljö
