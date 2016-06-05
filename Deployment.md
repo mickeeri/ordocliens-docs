@@ -3,14 +3,18 @@
 ### Beskrivning
 Processen som beskrivs nedan består i en beskrivning av hur jag har gått till väga för att publicera applikationen på en VPS bestående av Ubuntu 14.04.4 x64.
 
-### 1. Installera Ruby on Rails
+### 1. Logga in på VPS och skapa ny användare 
+[Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
+
+
+### 2. Installera Ruby on Rails
 För att installera Ruby och Ruby on Rails används följande instruktioner:
 
 [Setup Ruby On Rails on Ubuntu 14.04 Trusty Tahr](https://gorails.com/setup/ubuntu/14.04)
 
 Jag valde att använda `rvm` och `Ruby 2.3.1`.
 
-### 2. Installera PostgreSQL databas
+### 3. Installera PostgreSQL databas
 
 För att installaera databasen använde jag instruktionerna på följande sida:
 
@@ -79,12 +83,12 @@ Avsluta
 
 [Flytta databas från en server till en annan.](http://stackoverflow.com/questions/1237725/copying-postgresql-database-to-another-server)
 
-### 3. Installera NodeJS
+### 4. Installera NodeJS
 Node behövs också. Jag använde följande instruktioner för att installera det:
 
 [Installing Node.js via package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
 
-### 5. Logga in på Github och server med SSH.
+### 5. Github och ssh-nyckel
 Se _Step 5_ på följande sida:
 
 [Setting up SSH Keys](https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma)
@@ -110,6 +114,7 @@ set :linked_files, fetch(:linked_files, []).push("config/secrets.yml", "config/d
 
 #### Troubleshooting
 Ibland behövdes servern startas om, pga minnesbrist eller att databasen var upptagen.
+
 1. `ssh deployer@remote_host`
 2. `sudo shutdown -r now`
 3. `cap production deploy`
