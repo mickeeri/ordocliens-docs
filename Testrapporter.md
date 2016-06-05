@@ -8,9 +8,11 @@
 * [Iteration 7](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-7-vecka-19)
 * [Iteration 8](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-8-vecka-20)
 * [Iteration 9](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-9-vecka-21)
-* [Iteration 10](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-10-vecka-22)
+* [Iteration 10](https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/Testrapporter.md#testrapport-iteration-10-vecka-22) 
 
-## Testrapport Iteration 1, Vecka 13
+***
+
+### Testrapport Iteration 1, Vecka 13
 
 ### Datum
 2016-04-03
@@ -23,26 +25,30 @@ Systemet är fortfarande i inledningsfasen, men det verkar efter testningen vara
 
 ***
 
-## Testrapport Iteration 2, Vecka 14
+### Testrapport Iteration 2, Vecka 14
 
 ### Datum
 2016-04-12
 
 ### Automatiska tester
-På grund av flera förändingar bland annat införandet av Devise för användarhantering felar nästan alla automatiska tester. Saker och ting fungerar som de ska men tester och fixturer behöver göras om.
+På grund av flera förändingar bland annat införandet av Devise för användarhantering felar nästan alla automatiska tester. Saker och ting fungerar i det stora som de ska, men tester och fixturer behöver göras om.
 
-## Testrapport Iteration 3, Vecka 15
+***
+
+### Testrapport Iteration 3, Vecka 15
 
 ### Datum 
 2016-04-17
 
 ### Automatiska tester
-Rapport från automatiska tester finns [här](http://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-17.html)
+Rapport från automatiska tester finns [här](http://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-17.html).
 
 ### Analys 
 Systemet känns fortfarande stabilt. Har försökt men inte lycktas med att göra tester för vyerna eftersom det är React som renderar innehållet. Får försöka nästa vecka eller enbart testa det manuellt. 
 
-## Testrapport Iteration 4, Vecka 16
+***
+
+### Testrapport Iteration 4, Vecka 16
 ### Version
 [v0.4](https://github.com/me222wm/1dv42e-me222wm/tree/v0.4)
 
@@ -50,15 +56,15 @@ Systemet känns fortfarande stabilt. Har försökt men inte lycktas med att gör
 2016-04-22
 
 ### Automatiska tester
-Lista på automatiska tester och resultat [här](http://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-22.html)
+Lista på automatiska tester och resultat [här](http://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-22.html).
 
 ### Manuella tester
 #### Testmiljö
-Publicerad version av [applikationen](http://188.166.165.105/).
+Publicerad version av [applikationen](https://ordocliens.se/).
 
 Testat i Chrome Version 49.0.2623.112 m (64-bit)
 
-### Resultat
+#### Resultat
 
 |#    |Testfall                                            |Resultat          |Kommentar|
 |-----|----------------------------------------------------|------------------|---------|
@@ -78,7 +84,9 @@ Testat i Chrome Version 49.0.2623.112 m (64-bit)
 ### Analys 
 Applikationen fungerar överlag bra. Några av de manuella testerna felade eftersom jag inte har implementerat några felmeddelanden på front-end. Förutom det fungerar validering på serversidan som den ska. 
 
-## Testrapport Iteration 5, Vecka 17
+***
+
+### Testrapport Iteration 5, Vecka 17
 ### Version
 [v0.5](https://github.com/me222wm/1dv42e-me222wm/tree/v0.5)
 
@@ -86,7 +94,7 @@ Applikationen fungerar överlag bra. Några av de manuella testerna felade efter
 2016-04-30
 
 ### Automatiska tester
-Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-30.html)
+Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-04-30.html).
 
 ### Manuella tester
 #### Testmiljö
@@ -94,8 +102,7 @@ Lokal miljö.
 
 Testat i Chrome Version 49.0.2623.112 m (64-bit)
 
-
-### Resultat
+#### Resultat
 
 |#    |Testfall                                            |Resultat          |Kommentar|
 |-----|----------------------------------------------------|------------------|---------|
@@ -115,10 +122,14 @@ Testat i Chrome Version 49.0.2623.112 m (64-bit)
 ### Analys 
 Applikationen fungerar bra på serversidan. Men på grund av stora förändingar i gränssnittet fungerar inte all funktionalitet som den ska. Det behövs bara små ändringar för att få det att fungera igen. 
 
-## Testrapport Iteration 6, Vecka 18
-Ingen testning. 
+***
 
-## Testrapport Iteration 7, Vecka 19
+### Testrapport Iteration 6, Vecka 18
+Ingen testning under iterationen. 
+
+***
+
+### Testrapport Iteration 7, Vecka 19
 ### Version
 [v0.7](https://github.com/me222wm/1dv42e-me222wm/tree/v0.7)
 
@@ -126,7 +137,7 @@ Ingen testning.
 2016-05-15
 
 ### Automatiska tester
-Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-05-15.html)
+Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-05-15.html).
 
 ### Manuella tester
 #### Testmiljö
@@ -134,13 +145,15 @@ Lokal miljö.
 
 Testat i Chrome Version 49.0.2623.112 m (64-bit)
 
-### Resultat
-[Under iteration 7](https://docs.google.com/spreadsheets/d/19ByAyJSDggYLkyr8cpJMBzUUrwEBiPM0XIpPJHqxQiY/edit#gid=1648702780)
+#### Resultat
+[Under iteration 7](https://docs.google.com/spreadsheets/d/19ByAyJSDggYLkyr8cpJMBzUUrwEBiPM0XIpPJHqxQiY/edit#gid=1648702780).
 
 ### Analys 
 Alla testerna fungerar. Sytemet känns stabilt. 
 
-## Testrapport Iteration 8, Vecka 20
+***
+
+### Testrapport Iteration 8, Vecka 20
 ### Version
 [v0.8](https://github.com/me222wm/1dv42e-me222wm/tree/v0.8)
 
@@ -148,7 +161,7 @@ Alla testerna fungerar. Sytemet känns stabilt.
 2016-05-23
 
 ### Automatiska tester
-Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-05-23.html)
+Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-05-23.html).
 
 ### Manuella tester
 #### Testmiljö
@@ -163,7 +176,9 @@ Resultat från manuella tester presenterar numer [här](https://docs.google.com/
 ### Analys 
 Testerna går igenom. Samtidigt har det skett många förändringar på kort tid, vilket gör att det finns en osäkerhetskänsla. 
 
-## Testrapport Iteration 9, Vecka 21
+***
+
+### Testrapport Iteration 9, Vecka 21
 ### Version
 [v0.9](https://github.com/me222wm/1dv42e-me222wm/tree/v0.9)
 
@@ -184,7 +199,9 @@ Resultat från manuella tester presenterar numer [här](https://docs.google.com/
 ### Analys 
 Testerna går igenom. Dock finns det endel saker som ännu inte är testade. Åtminstonde är testningen av dem inte dokumenterad. Har nu en version av applikationen på kundens VPS på Loopia där de kan testa att lägga in några klienter och se hur det fungerar. 
 
-## Testrapport Iteration 10, Vecka 22
+***
+
+### Testrapport Iteration 10, Vecka 22
 ### Datum 
 2016-06-05
 
@@ -204,7 +221,7 @@ Testat i Chrome Version Version 51.0.2704.63 (64-bit)
 Resultat från manuella tester presenterar numer [här](https://docs.google.com/spreadsheets/d/1rzFkEfqJGzqhJhAANs7PTpTYKmhoc2VUc4Grx-b3ISc/edit?usp=sharing)
 
 ### Analys 
-Har testat ännu mer under den här iterationen och systemet känns stabilt. 
+Har testat ännu mer under den här iterationen och systemet känns stabilt. Sa på presentationen att det inte fanns några automatiska tester för vyerna (som mestadels består av React-komponententer), men jag har i sista stund lyckats implementera några tester för crud-funktionaliteten hos klienter och juridiska ärenden.  
 
 
 
