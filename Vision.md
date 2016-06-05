@@ -17,9 +17,9 @@ erbjuder program som riktar sig till jurist­ och advokatbyråer, exempelvis ​
 Förarbete innefattar bland annat att sätta sig in i och försöka förstå branschen. Hur fungerar det med ärenden, klienter och ersättningsnivåer för olika typer av uppdrag? Jag behöver även undersöka säkerhetsaspekter och regler gällande lagring av personuppgifter.
 
 ### Baskrav/Egenskaper/Features
-* Det ska gå att registera klienter.
+* Det ska gå att registrera klienter.
 * Det ska gå att spara information om klienters motparter.
-* Det ska gå att registera ärenden som tillhör klienter.
+* Det ska gå att registrera ärenden som tillhör klienter.
 * Arbetet med ett ärende ska kunna rapporteras med datum, beskrivning och arbetad tid.
 * Systemet ska generera kostnadsberäkningar utifrån det rapporterade arbetet.
 
