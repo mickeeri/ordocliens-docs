@@ -1,5 +1,5 @@
-## Datavetenskap självständigt arbete
-###### Dokumentation för praktiskt arbete
+## Datavetenskap självständigt arbete 1DV42E
+###### Dokumentation för praktiskt arbete VT-2016
 _Mikael Eriksson_ 
 
 ### Projektdokument
