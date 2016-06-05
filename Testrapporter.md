@@ -183,3 +183,34 @@ Resultat från manuella tester presenterar numer [här](https://docs.google.com/
 ### Analys 
 Testerna går igenom. Dock finns det endel saker som ännu inte är testade. Åtminstonde är testningen av dem inte dokumenterad. Har nu en version av applikationen på kundens VPS på Loopia där de kan testa att lägga in några klienter och se hur det fungerar. 
 
+## Testrapport Iteration 10, Vecka 22
+### Version
+[v0.9](https://github.com/me222wm/1dv42e-me222wm/tree/v1.0)
+
+### Datum 
+2016-06-05
+
+### Automatiska tester
+Lista på automatiska tester och resultat [här](## Testrapport Iteration 9, Vecka 21
+### Version
+[v0.9](https://github.com/me222wm/1dv42e-me222wm/tree/v0.9)
+
+### Datum 
+2016-05-23
+
+### Automatiska tester
+Lista på automatiska tester och resultat [här](https://htmlpreview.github.io/?https://github.com/me222wm/1dv42e-me222wm-docs/blob/master/test-reports/rspec-result%202016-06-05.html)
+
+### Manuella tester
+#### Testmiljö
+[Publicerad version](https://ordocliens.se/) 
+Testat i Chrome Version Version 51.0.2704.63 (64-bit)
+
+#### Resultat
+Resultat från manuella tester presenterar numer [här](https://docs.google.com/spreadsheets/d/1rzFkEfqJGzqhJhAANs7PTpTYKmhoc2VUc4Grx-b3ISc/edit?usp=sharing)
+
+### Analys 
+Har testat ännu mer under den här iterationen och systemet känns stabilt. 
+
+
+
