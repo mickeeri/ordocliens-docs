@@ -23,17 +23,6 @@ För att installaera databasen använde jag instruktionerna på följande sida:
 
 [PostgreSQL Linux Downloads (Ubuntu)](http://www.postgresql.org/download/linux/ubuntu/)
 
-#### Språkinställingar
-```
-export LANGUAGE=en_US.UTF-8
-export LC_ALL=sv_SE.UTF-8
-```
-```
-sudo locale-gen
-sudo dpkg-reconfigure locales
-sudo service postgresql restart
-```
-
 #### Steg för steg
 ###### 1. Skapa en pgdg.list-fil med.
 ```
@@ -77,6 +66,16 @@ postgres=# create user lawfirm with password 'MY_PASSWORD';
 ```
 postgres=# CREATE DATABASE lawfirm_development WITH OWNER micke ENCODING 'UTF8' TABLESPACE = pg_default LC_COLLATE 'sv_SE.UTF-8' LC_CTYPE 'sv_SE.UTF-8'  TEMPLATE template0;
 ```
+#### Språkinställingar
+```
+export LANGUAGE=en_US.UTF-8
+export LC_ALL=sv_SE.UTF-8
+```
+```
+sudo locale-gen
+sudo dpkg-reconfigure locales
+sudo service postgresql restart
+```
 
 #### Troubleshooting
 Problem med inloggning. Se [följande svar på Stack Overflow](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)
@@ -84,11 +83,11 @@ Problem med inloggning. Se [följande svar på Stack Overflow](http://stackoverf
 #### Användbart
 Lista på databaser
 ```
-/l
+\l
 ```
 Lista på alla roller
 ```
-/du
+\du
 ```
 Avsluta
 ```
