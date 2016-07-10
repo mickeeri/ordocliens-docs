@@ -14,6 +14,9 @@ För att installera Ruby och Ruby on Rails används följande instruktioner:
 
 Jag valde att använda `rvm` och `Ruby 2.3.1`.
 
+För Rails utan dokumentation:
+`--no-ri --no-rdoc`
+
 ### 3. Installera PostgreSQL databas
 
 För att installaera databasen använde jag instruktionerna på följande sida:
