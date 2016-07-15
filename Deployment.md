@@ -153,3 +153,10 @@ Starta om nginx
 
 #### Barman för backup-server
 [How To Back Up, Restore, and Migrate PostgreSQL Databases with Barman](https://www.digitalocean.com/community/tutorials/how-to-back-up-restore-and-migrate-postgresql-databases-with-barman-on-centos-7)
+
+1. Tillåt backup-servern i brandväggen. 
+2. Ändra raden till `listen_adress='*'` eller `listen_adress='backup_server_ip'`
+
+```
+
+```
