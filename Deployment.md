@@ -156,7 +156,7 @@ Starta om nginx
 
 1. Tillåt backup-servern i brandväggen. 
 2. Ändra raden till `listen_adress='*'` eller `listen_adress='backup_server_ip'`
-
+3. För att få mappen där databasen finns. Se [länk](http://askubuntu.com/questions/197626/where-is-a-postgresql-9-1-database-stored-in-ubuntu-12-04)
 ```
 
 ```
