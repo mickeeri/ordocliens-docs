@@ -150,3 +150,6 @@ Starta om nginx
 
 #### Använd Gmail för t.ex. återställningsmail
 [How to set up gmail with your domain](https://www.digitalocean.com/community/tutorials/how-to-set-up-gmail-with-your-domain-on-digitalocean)
+
+#### Barman för backup-server
+[How To Back Up, Restore, and Migrate PostgreSQL Databases with Barman](https://www.digitalocean.com/community/tutorials/how-to-back-up-restore-and-migrate-postgresql-databases-with-barman-on-centos-7)
