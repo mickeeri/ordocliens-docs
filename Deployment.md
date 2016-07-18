@@ -6,7 +6,7 @@ Processen som beskrivs nedan består i en beskrivning av hur jag har gått till 
 ### 1. Logga in på VPS och skapa ny användare 
 [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
 
-[Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
+[Additional Recommended Steps for New Ubuntu 14.04 Servers](https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers)
 
 
 ### 2. Installera Ruby on Rails
