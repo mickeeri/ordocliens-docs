@@ -100,7 +100,7 @@ Avsluta
 [Flytta databas från en server till en annan.](http://stackoverflow.com/questions/1237725/copying-postgresql-database-to-another-server)
 
 #### Uppgradera postgres-version
-(Upgrading PostgreSQL from 9.3 to 9.4 on Ubuntu 14.04 LTS)[https://medium.com/@tk512/upgrading-postgresql-from-9-3-to-9-4-on-ubuntu-14-04-lts-2b4ddcd26535#.38w99ii53]
+[Upgrading PostgreSQL from 9.3 to 9.4 on Ubuntu 14.04 LTS](https://medium.com/@tk512/upgrading-postgresql-from-9-3-to-9-4-on-ubuntu-14-04-lts-2b4ddcd26535#.38w99ii53)
 
 ### 4. Installera NodeJS
 Node behövs också. Jag använde följande instruktioner för att installera det:
