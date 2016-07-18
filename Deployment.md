@@ -134,8 +134,9 @@ Ibland behövdes servern startas om, pga minnesbrist eller att databasen var upp
 3. `cap production deploy`
 
 ### Användbart
-Starta om nginx
-`sudo service nginx restart`
+Starta om nginx `sudo service nginx restart`
+
+Stäng av VPS: `sudo shutdown -h now`
 
 #### Ta bort apache-server om förinstallerad
 [Permanently removing apache2](http://askubuntu.com/questions/176964/permanently-removing-apache2)
