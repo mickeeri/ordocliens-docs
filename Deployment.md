@@ -163,6 +163,11 @@ Stäng av VPS: `sudo shutdown -h now`
 1. Tillåt backup-servern i brandväggen. 
 2. Ändra raden till `listen_adress='*'` eller `listen_adress='backup_server_ip'`
 3. För att få mappen där databasen finns. Se [länk](http://askubuntu.com/questions/197626/where-is-a-postgresql-9-1-database-stored-in-ubuntu-12-04)
+
+#### Skapa swapfil
+[How To Add Swap on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04)
+
+
 ```
 
 ```
